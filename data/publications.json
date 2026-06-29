@@ -24,7 +24,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf299",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.434900+00:00"
+    "updated_at": "2026-06-29T21:54:33.408044+00:00"
   },
   {
     "id": "https://openalex.org/W7165683524",
@@ -41,7 +41,7 @@
     "landing_page_url": "https://doi.org/10.1515/9798855807998-009",
     "is_open_access": false,
     "manual_seed": false,
-    "updated_at": "2026-06-29T21:52:02.439420+00:00"
+    "updated_at": "2026-06-29T21:54:33.412730+00:00"
   },
   {
     "id": "https://openalex.org/W7165459649",
@@ -62,7 +62,7 @@
     "landing_page_url": "https://doi.org/10.5281/zenodo.20778807",
     "is_open_access": true,
     "manual_seed": false,
-    "updated_at": "2026-06-29T21:52:02.440210+00:00"
+    "updated_at": "2026-06-29T21:54:33.413541+00:00"
   },
   {
     "id": "https://openalex.org/W7165466736",
@@ -83,7 +83,7 @@
     "landing_page_url": "https://doi.org/10.5281/zenodo.20778806",
     "is_open_access": true,
     "manual_seed": false,
-    "updated_at": "2026-06-29T21:52:02.440331+00:00"
+    "updated_at": "2026-06-29T21:54:33.413660+00:00"
   },
   {
     "id": "https://openalex.org/W4412720576",
@@ -111,7 +111,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118508",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435011+00:00"
+    "updated_at": "2026-06-29T21:54:33.408139+00:00"
   },
   {
     "id": "https://openalex.org/W4409393883",
@@ -141,7 +141,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf093",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435026+00:00"
+    "updated_at": "2026-06-29T21:54:33.408154+00:00"
   },
   {
     "id": "https://openalex.org/W4417102096",
@@ -182,7 +182,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.estlett.5c00790",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.434966+00:00"
+    "updated_at": "2026-06-29T21:54:33.408092+00:00"
   },
   {
     "id": "https://openalex.org/W4415614905",
@@ -214,7 +214,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf260",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.434986+00:00"
+    "updated_at": "2026-06-29T21:54:33.408112+00:00"
   },
   {
     "id": "https://openalex.org/W4415638434",
@@ -240,7 +240,7 @@
     "landing_page_url": "https://doi.org/10.1088/2515-7620/ae188d",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.434997+00:00"
+    "updated_at": "2026-06-29T21:54:33.408125+00:00"
   },
   {
     "id": "https://openalex.org/W4395069336",
@@ -297,7 +297,7 @@
     "landing_page_url": "https://doi.org/10.1126/sciadv.adj8275",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435237+00:00"
+    "updated_at": "2026-06-29T21:54:33.408401+00:00"
   },
   {
     "id": "https://openalex.org/W4323531449",
@@ -337,7 +337,7 @@
     "landing_page_url": "https://doi.org/10.1371/journal.pone.0281596",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435287+00:00"
+    "updated_at": "2026-06-29T21:54:33.408451+00:00"
   },
   {
     "id": "https://openalex.org/W4383224299",
@@ -366,7 +366,7 @@
     "landing_page_url": "https://doi.org/10.3389/fbuil.2023.1206474",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435253+00:00"
+    "updated_at": "2026-06-29T21:54:33.408418+00:00"
   },
   {
     "id": "https://openalex.org/W4382602825",
@@ -388,7 +388,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2023.115198",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435261+00:00"
+    "updated_at": "2026-06-29T21:54:33.408427+00:00"
   },
   {
     "id": "https://openalex.org/W3161799540",
@@ -425,7 +425,7 @@
     "landing_page_url": "https://doi.org/10.1021/acsestwater.0c00292",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435418+00:00"
+    "updated_at": "2026-06-29T21:54:33.408583+00:00"
   },
   {
     "id": "https://openalex.org/W4200173985",
@@ -451,7 +451,7 @@
     "landing_page_url": "https://doi.org/10.1088/1755-1315/925/1/012043",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435454+00:00"
+    "updated_at": "2026-06-29T21:54:33.408622+00:00"
   },
   {
     "id": "https://openalex.org/W3041758622",
@@ -491,7 +491,7 @@
     "landing_page_url": "https://doi.org/10.1177/0003702820945713",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435335+00:00"
+    "updated_at": "2026-06-29T21:54:33.408500+00:00"
   },
   {
     "id": "https://openalex.org/W3112962566",
@@ -520,7 +520,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.jhazmat.2020.124770",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435349+00:00"
+    "updated_at": "2026-06-29T21:54:33.408515+00:00"
   },
   {
     "id": "https://openalex.org/W3016054654",
@@ -548,7 +548,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.envint.2020.105704",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435428+00:00"
+    "updated_at": "2026-06-29T21:54:33.408593+00:00"
   },
   {
     "id": "https://openalex.org/W3110837237",
@@ -575,7 +575,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.est.0c05746",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435443+00:00"
+    "updated_at": "2026-06-29T21:54:33.408609+00:00"
   },
   {
     "id": "https://openalex.org/W2922699723",
@@ -606,7 +606,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2019.03.036",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435398+00:00"
+    "updated_at": "2026-06-29T21:54:33.408563+00:00"
   },
   {
     "id": "https://openalex.org/W2759784647",
@@ -647,7 +647,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.envpol.2017.09.058",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435384+00:00"
+    "updated_at": "2026-06-29T21:54:33.408550+00:00"
   },
   {
     "id": "https://openalex.org/W2410776720",
@@ -675,7 +675,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2016.05.077",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435313+00:00"
+    "updated_at": "2026-06-29T21:54:33.408478+00:00"
   },
   {
     "id": "https://openalex.org/W2428524794",
@@ -704,7 +704,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.jglr.2016.05.009",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435362+00:00"
+    "updated_at": "2026-06-29T21:54:33.408528+00:00"
   },
   {
     "id": "https://openalex.org/W2150503350",
@@ -734,6 +734,6 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.10.007",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:52:02.435301+00:00"
+    "updated_at": "2026-06-29T21:54:33.408465+00:00"
   }
 ]
