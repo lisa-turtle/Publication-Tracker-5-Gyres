@@ -1,5 +1,99 @@
 [
   {
+    "id": "https://openalex.org/W2130707940",
+    "doi": "10.1371/journal.pone.0111913",
+    "title": "Plastic Pollution in the World's Oceans: More than 5 Trillion Plastic Pieces Weighing over 250,000 Tons Afloat at Sea",
+    "year": 2014,
+    "publication_date": "2014-12-10",
+    "type": "article",
+    "journal_or_source": "PLoS ONE",
+    "authors": [
+      "Marcus Eriksen",
+      "Laurent Lebreton",
+      "Henry S. Carson",
+      "Martín Thiel",
+      "Charles J. Moore",
+      "Jose C. Borerro",
+      "François Galgani",
+      "Peter G. Ryan",
+      "Júlia Reisser"
+    ],
+    "affiliations": [
+      "Centro de Estudios Científicos",
+      "Ifremer",
+      "Southern California Institute for Research and Education",
+      "Statistics New Zealand",
+      "Universidad Católica del Norte",
+      "University of Cape Town",
+      "University of Hawaii at Hilo",
+      "University of Western Australia",
+      "Washington Department of Fish and Wildlife",
+      "eCoast (New Zealand)"
+    ],
+    "citation_count": 4624,
+    "openalex_url": "https://openalex.org/W2130707940",
+    "landing_page_url": "https://doi.org/10.1371/journal.pone.0111913",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518531+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3087333805",
+    "doi": "10.1126/science.aba3656",
+    "title": "Predicted growth in plastic waste exceeds efforts to mitigate plastic pollution",
+    "year": 2020,
+    "publication_date": "2020-09-17",
+    "type": "article",
+    "journal_or_source": "Science",
+    "authors": [
+      "Stephanie B. Borrelle",
+      "Jeremy Ringma",
+      "Kara Lavender Law",
+      "Cole C. Monnahan",
+      "Laurent Lebreton",
+      "Alexis McGivern",
+      "Erin L. Murphy",
+      "Jenna Jambeck",
+      "George H. Leonard",
+      "Michelle A. Hilleary",
+      "Marcus Eriksen",
+      "Hugh P. Possingham",
+      "Hannah De Frond",
+      "Leah R. Gerber",
+      "Beth Polidoro",
+      "Akbar Tahir",
+      "Miranda Bernard",
+      "Nicholas J. Mallos",
+      "Megan Barnes",
+      "Chelsea M. Rochman"
+    ],
+    "affiliations": [
+      "Arizona State University",
+      "Hasanuddin University",
+      "Maricopa Community Colleges - Glendale Community College",
+      "NOAA National Marine Fisheries Service Northwest Fisheries Science Center",
+      "National Oceanic and Atmospheric Administration",
+      "Ocean Conservancy",
+      "Sea Education Association",
+      "Society for Conservation Biology",
+      "The Nature Conservancy",
+      "The Ocean Cleanup",
+      "The University of Queensland",
+      "The University of Western Australia",
+      "University of Georgia",
+      "University of Hawaiʻi at Mānoa",
+      "University of Oxford",
+      "University of Toronto",
+      "Virginia Tech"
+    ],
+    "citation_count": 3016,
+    "openalex_url": "https://openalex.org/W3087333805",
+    "landing_page_url": "https://doi.org/10.1126/science.aba3656",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518557+00:00"
+  },
+  {
     "id": "https://openalex.org/W2150503350",
     "doi": "10.1016/j.marpolbul.2013.10.007",
     "title": "Microplastic pollution in the surface waters of the Laurentian Great Lakes",
@@ -27,7 +121,231 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.10.007",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166011+00:00"
+    "updated_at": "2026-06-29T22:39:46.518360+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2176331526",
+    "doi": "10.1088/1748-9326/10/12/124006",
+    "title": "A global inventory of small floating plastic debris",
+    "year": 2015,
+    "publication_date": "2015-12-01",
+    "type": "article",
+    "journal_or_source": "Environmental Research Letters",
+    "authors": [
+      "Erik van Sebille",
+      "Chris Wilcox",
+      "Laurent Lebreton",
+      "Nikolai Maximenko",
+      "Britta Denise Hardesty",
+      "J.A. van Franeker",
+      "Marcus Eriksen",
+      "David A. Siegel",
+      "François Galgani",
+      "Kara Lavender Law"
+    ],
+    "affiliations": [
+      "ARC Centre of Excellence for Climate System Science",
+      "CSIRO Oceans and Atmosphere",
+      "Grantham College",
+      "Ifremer",
+      "Imperial College London",
+      "Sea Education Association",
+      "Statistics New Zealand",
+      "UNSW Sydney",
+      "University of California, Santa Barbara",
+      "University of Hawaii System",
+      "University of Hawaiʻi at Mānoa",
+      "Wageningen University & Research"
+    ],
+    "citation_count": 1684,
+    "openalex_url": "https://openalex.org/W2176331526",
+    "landing_page_url": "https://doi.org/10.1088/1748-9326/10/12/124006",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518577+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2103585709",
+    "doi": "10.1016/j.marpolbul.2014.06.001",
+    "title": "High-levels of microplastic pollution in a large, remote, mountain lake",
+    "year": 2014,
+    "publication_date": "2014-06-24",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Christopher M. Free",
+      "Olaf P. Jensen",
+      "Sherri A. Mason",
+      "Marcus Eriksen",
+      "N. Williamson",
+      "Bazartseren Boldgiv"
+    ],
+    "affiliations": [
+      "National University of Mongolia",
+      "Rutgers, The State University of New Jersey",
+      "SUNY Fredonia",
+      "York University"
+    ],
+    "citation_count": 1454,
+    "openalex_url": "https://openalex.org/W2103585709",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2014.06.001",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518589+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2007888807",
+    "doi": "10.1016/j.reprotox.2007.07.005",
+    "title": "Chapel Hill bisphenol A expert panel consensus statement: Integration of mechanisms, effects in animals and potential to impact human health at current levels of exposure",
+    "year": 2007,
+    "publication_date": "2007-07-31",
+    "type": "letter",
+    "journal_or_source": "Reproductive Toxicology",
+    "authors": [
+      "Frederick S. vom Saal",
+      "Benson T. Akingbemi",
+      "Scott M. Belcher",
+      "Linda S. Birnbaum",
+      "D. Andrew Crain",
+      "Marcus Eriksen",
+      "Francesca Farabollini",
+      "Louis J. Guillette",
+      "Russ Hauser",
+      "Jerrold J. Heindel",
+      "Shuk‐Mei Ho",
+      "Patricia A. Hunt",
+      "Taisen Iguchi",
+      "Susan Jobling",
+      "Jun Kanno",
+      "Ruth A. Keri",
+      "Karen E. Knudsen",
+      "Hans Laufer",
+      "Gerald A. LeBlanc",
+      "Michele Marcus",
+      "John A. McLachlan",
+      "John Peterson Myers",
+      "Ãngel Nadal",
+      "Retha R. Newbold",
+      "Nicolás Olea",
+      "Gail S. Prins",
+      "Catherine A. Richter",
+      "Beverly S. Rubin",
+      "Carlos Sonnenschein",
+      "Ana M. Soto",
+      "Chris E. Talsness",
+      "John G. Vandenbergh",
+      "Laura N. Vandenberg",
+      "Debby Walser-Kuntz",
+      "Cheryl S. Watson",
+      "Wade V. Welshons",
+      "Yelena B. Wetherill",
+      "R. Thomas Zoeller"
+    ],
+    "affiliations": [
+      "Auburn University",
+      "Brunel University of London",
+      "Carleton College",
+      "Case Western Reserve University",
+      "Center for Environmental Health",
+      "Charité - Universitätsmedizin Berlin",
+      "Emory University",
+      "Environmental Protection Agency",
+      "Harvard University Press",
+      "Marine Research Foundation",
+      "Maryville College",
+      "National Institute of Environmental Health Sciences",
+      "National Institute of Health Sciences",
+      "National Institutes of Health",
+      "National Institutes of Natural Sciences",
+      "North Carolina State University",
+      "Pacific Island Ecosystems Research Center",
+      "Research Triangle Park Foundation",
+      "The University of Texas Medical Branch at Galveston",
+      "Tufts University",
+      "Tulane University",
+      "United States Geological Survey",
+      "Universidad de Granada",
+      "Universitat de Miguel Hernández d'Elx",
+      "University School",
+      "University of Cincinnati",
+      "University of Cincinnati Medical Center",
+      "University of Connecticut",
+      "University of Florida",
+      "University of Illinois Chicago",
+      "University of Missouri",
+      "University of Siena",
+      "Washington State University"
+    ],
+    "citation_count": 712,
+    "openalex_url": "https://openalex.org/W2007888807",
+    "landing_page_url": "https://doi.org/10.1016/j.reprotox.2007.07.005",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518635+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2165785532",
+    "doi": "10.1016/j.marpolbul.2012.12.021",
+    "title": "Plastic pollution in the South Pacific subtropical gyre",
+    "year": 2013,
+    "publication_date": "2013-01-13",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Marcus Eriksen",
+      "Nikolai Maximenko",
+      "Martín Thiel",
+      "Anna Cummins",
+      "Gwen Lattin",
+      "Stiv Wilson",
+      "Jan Hafner",
+      "Ann Zellers",
+      "Samuel Rifman"
+    ],
+    "affiliations": [
+      "Pacific International Center for High Technology Research",
+      "Spaulding Hospital",
+      "Universidad Católica del Norte",
+      "University of Hawaii System",
+      "University of Hawaiʻi at Mānoa"
+    ],
+    "citation_count": 593,
+    "openalex_url": "https://openalex.org/W2165785532",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2012.12.021",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518650+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2080671154",
+    "doi": "10.1016/j.reprotox.2007.05.008",
+    "title": "An ecological assessment of bisphenol-A: Evidence from comparative biology",
+    "year": 2007,
+    "publication_date": "2007-05-19",
+    "type": "review",
+    "journal_or_source": "Reproductive Toxicology",
+    "authors": [
+      "D. Andrew Crain",
+      "Marcus Eriksen",
+      "Taisen Iguchi",
+      "Susan Jobling",
+      "Hans Laufer",
+      "Gerald A. LeBlanc",
+      "Louis J. Guillette"
+    ],
+    "affiliations": [
+      "Brunel University of London",
+      "Maryville College",
+      "North Carolina State University",
+      "University of Connecticut",
+      "University of Florida"
+    ],
+    "citation_count": 540,
+    "openalex_url": "https://openalex.org/W2080671154",
+    "landing_page_url": "https://doi.org/10.1016/j.reprotox.2007.05.008",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518663+00:00"
   },
   {
     "id": "https://openalex.org/W2410776720",
@@ -55,7 +373,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2016.05.077",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166022+00:00"
+    "updated_at": "2026-06-29T22:39:46.518377+00:00"
   },
   {
     "id": "https://openalex.org/W4323531449",
@@ -95,7 +413,7 @@
     "landing_page_url": "https://doi.org/10.1371/journal.pone.0281596",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165998+00:00"
+    "updated_at": "2026-06-29T22:39:46.518346+00:00"
   },
   {
     "id": "https://openalex.org/W3041758622",
@@ -135,7 +453,157 @@
     "landing_page_url": "https://doi.org/10.1177/0003702820945713",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166040+00:00"
+    "updated_at": "2026-06-29T22:39:46.518396+00:00"
+  },
+  {
+    "id": "https://openalex.org/W1967071586",
+    "doi": "10.1016/j.marpolbul.2013.07.054",
+    "title": "The plastic-associated microorganisms of the North Pacific Gyre",
+    "year": 2013,
+    "publication_date": "2013-08-27",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Henry S. Carson",
+      "Magnus S. Nerheim",
+      "Katherine A. Carroll",
+      "Marcus Eriksen"
+    ],
+    "affiliations": [
+      "University of Bergen",
+      "University of Hawaii at Hilo"
+    ],
+    "citation_count": 344,
+    "openalex_url": "https://openalex.org/W1967071586",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.07.054",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518708+00:00"
+  },
+  {
+    "id": "https://openalex.org/W1965858356",
+    "doi": "10.3354/esr00623",
+    "title": "Global research priorities to mitigate plastic pollution impacts on marine wildlife",
+    "year": 2014,
+    "publication_date": "2014-06-05",
+    "type": "article",
+    "journal_or_source": "Endangered Species Research",
+    "authors": [
+      "AC Vegter",
+      "M. Barletta",
+      "Cathy A. Beck",
+      "J. C. Borrero",
+      "Harry R. Burton",
+      "Marnie L. Campbell",
+      "Mônica F. Costa",
+      "M Eriksen",
+      "C. Eriksson",
+      "Andrés Estrades",
+      "KVK Gilardi",
+      "Britta Denise Hardesty",
+      "JA Ivar do Sul",
+      "Jennifer L. Lavers",
+      "Bojan Lazar",
+      "Laurent Lebreton",
+      "WJ Nichols",
+      "CA Ribic",
+      "Peter G. Ryan",
+      "QA Schuyler",
+      "SDA Smith",
+      "Hideshige Takada",
+      "Kathy A. Townsend",
+      "CCC Wabnitz",
+      "Chris Wilcox",
+      "LC Young",
+      "Mark Hamann"
+    ],
+    "affiliations": [
+      "Australian Regenerative Medicine Institute",
+      "CSIRO Oceans and Atmosphere",
+      "California Academy of Sciences",
+      "Central Queensland University",
+      "Commonwealth Scientific and Industrial Research Organisation",
+      "IP Australia",
+      "James Cook University",
+      "Karumbé",
+      "Mid-Pacific Institute",
+      "Monash University",
+      "Pacific Community",
+      "Pacific Environment",
+      "Southern Cross University",
+      "Statistics New Zealand",
+      "The University of Queensland",
+      "Tokyo University of Agriculture and Technology",
+      "United States Geological Survey",
+      "Universidade Federal de Pernambuco",
+      "University of California System",
+      "University of California, Davis",
+      "University of Cape Town",
+      "University of Primorska",
+      "University of Tasmania",
+      "University of Wisconsin–Madison",
+      "eCoast (New Zealand)"
+    ],
+    "citation_count": 327,
+    "openalex_url": "https://openalex.org/W1965858356",
+    "landing_page_url": "https://doi.org/10.3354/esr00623",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518698+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2097196948",
+    "doi": "10.1016/j.scitotenv.2014.01.058",
+    "title": "Polybrominated diphenyl ethers (PBDEs) in fish tissue may be an indicator of plastic contamination in marine habitats",
+    "year": 2014,
+    "publication_date": "2014-02-03",
+    "type": "article",
+    "journal_or_source": "The Science of The Total Environment",
+    "authors": [
+      "Chelsea M. Rochman",
+      "Rebecca L. Lewison",
+      "Marcus Eriksen",
+      "Harry Allen",
+      "Anna‐Marie Cook",
+      "Swee J. Teh"
+    ],
+    "affiliations": [
+      "Environmental Protection Agency",
+      "San Diego State University",
+      "University of California, Davis"
+    ],
+    "citation_count": 247,
+    "openalex_url": "https://openalex.org/W2097196948",
+    "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2014.01.058",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518721+00:00"
+  },
+  {
+    "id": "https://openalex.org/W1973411112",
+    "doi": "10.1007/s00227-014-2432-8",
+    "title": "Relationship of diversity and habitat area in North Pacific plastic-associated rafting communities",
+    "year": 2014,
+    "publication_date": "2014-04-12",
+    "type": "article",
+    "journal_or_source": "Marine Biology",
+    "authors": [
+      "Miriam Goldstein",
+      "Henry S. Carson",
+      "Marcus Eriksen"
+    ],
+    "affiliations": [
+      "Scripps Institution of Oceanography",
+      "University of California San Diego",
+      "University of Hawaii at Hilo",
+      "Washington Department of Fish and Wildlife"
+    ],
+    "citation_count": 211,
+    "openalex_url": "https://openalex.org/W1973411112",
+    "landing_page_url": "https://doi.org/10.1007/s00227-014-2432-8",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518734+00:00"
   },
   {
     "id": "https://openalex.org/W3112962566",
@@ -164,7 +632,40 @@
     "landing_page_url": "https://doi.org/10.1016/j.jhazmat.2020.124770",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166052+00:00"
+    "updated_at": "2026-06-29T22:39:46.518409+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2895466810",
+    "doi": "10.1016/j.marpolbul.2018.09.031",
+    "title": "Double trouble in the South Pacific subtropical gyre: Increased plastic ingestion by fish in the oceanic accumulation zone",
+    "year": 2018,
+    "publication_date": "2018-10-05",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Ana Markić",
+      "Clarisse Niemand",
+      "James H. Bridson",
+      "Nabila Mazouni-Gaertner",
+      "Jean‐Claude Gaertner",
+      "Marcus Eriksen",
+      "Melissa Bowen"
+    ],
+    "affiliations": [
+      "Institut Louis Malardé",
+      "Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche",
+      "Santé et Services des Ecosytèmes Polynésiens",
+      "Scion",
+      "University of Auckland",
+      "University of French Polynesia",
+      "University of Waikato"
+    ],
+    "citation_count": 177,
+    "openalex_url": "https://openalex.org/W2895466810",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2018.09.031",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518749+00:00"
   },
   {
     "id": "https://openalex.org/W2759784647",
@@ -205,7 +706,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.envpol.2017.09.058",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166081+00:00"
+    "updated_at": "2026-06-29T22:39:46.518445+00:00"
   },
   {
     "id": "https://openalex.org/W2922699723",
@@ -236,7 +737,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2019.03.036",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166093+00:00"
+    "updated_at": "2026-06-29T22:39:46.518459+00:00"
   },
   {
     "id": "https://openalex.org/W4395069336",
@@ -293,7 +794,7 @@
     "landing_page_url": "https://doi.org/10.1126/sciadv.adj8275",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165949+00:00"
+    "updated_at": "2026-06-29T22:39:46.518300+00:00"
   },
   {
     "id": "https://openalex.org/W2428524794",
@@ -322,7 +823,70 @@
     "landing_page_url": "https://doi.org/10.1016/j.jglr.2016.05.009",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166062+00:00"
+    "updated_at": "2026-06-29T22:39:46.518423+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2551655336",
+    "doi": "10.1039/c6ay02716d",
+    "title": "Incorporating citizen science to study plastics in the environment",
+    "year": 2016,
+    "publication_date": "2016-11-14",
+    "type": "article",
+    "journal_or_source": "Analytical Methods",
+    "authors": [
+      "Erik Zettler",
+      "Hideshige Takada",
+      "Bonnie Monteleone",
+      "Nicholas J. Mallos",
+      "Marcus Eriksen",
+      "Linda Amaral‐Zettler"
+    ],
+    "affiliations": [
+      "Falmouth Hospital",
+      "Marine Biological Laboratory",
+      "Ocean Conservancy",
+      "Oceaneering International (United States)",
+      "Redress",
+      "Sea Education Association",
+      "Tokyo University of Agriculture and Technology",
+      "University of Santa Monica",
+      "Ökopol (Germany)"
+    ],
+    "citation_count": 117,
+    "openalex_url": "https://openalex.org/W2551655336",
+    "landing_page_url": "https://doi.org/10.1039/c6ay02716d",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518781+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4404137804",
+    "doi": "10.1016/j.oneear.2024.10.017",
+    "title": "Plastics pollution exacerbates the impacts of all planetary boundaries",
+    "year": 2024,
+    "publication_date": "2024-11-07",
+    "type": "article",
+    "journal_or_source": "One Earth",
+    "authors": [
+      "Patricia Villarrubia-Gómez",
+      "Bethanie Carney Almroth",
+      "Marcus Eriksen",
+      "Morten Ryberg",
+      "Sarah Cornell"
+    ],
+    "affiliations": [
+      "Nordisk Fond for Miljø og Udvikling",
+      "Stockholm Resilience Centre",
+      "Stockholm University",
+      "Technical University of Denmark",
+      "University of Gothenburg"
+    ],
+    "citation_count": 112,
+    "openalex_url": "https://openalex.org/W4404137804",
+    "landing_page_url": "https://doi.org/10.1016/j.oneear.2024.10.017",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518765+00:00"
   },
   {
     "id": "https://openalex.org/W3161799540",
@@ -359,7 +923,33 @@
     "landing_page_url": "https://doi.org/10.1021/acsestwater.0c00292",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166111+00:00"
+    "updated_at": "2026-06-29T22:39:46.518477+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3093916560",
+    "doi": "10.1016/j.jaridenv.2020.104374",
+    "title": "The plight of camels eating plastic waste",
+    "year": 2020,
+    "publication_date": "2020-10-23",
+    "type": "article",
+    "journal_or_source": "Journal of Arid Environments",
+    "authors": [
+      "Marcus Eriksen",
+      "Amy Lusher",
+      "Mia Nixon",
+      "U. Wernery"
+    ],
+    "affiliations": [
+      "Central Veterinary Research Laboratory",
+      "Learning Through an Expanded Arts Program",
+      "Norwegian Institute for Water Research"
+    ],
+    "citation_count": 52,
+    "openalex_url": "https://openalex.org/W3093916560",
+    "landing_page_url": "https://doi.org/10.1016/j.jaridenv.2020.104374",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518792+00:00"
   },
   {
     "id": "https://openalex.org/W3016054654",
@@ -387,7 +977,36 @@
     "landing_page_url": "https://doi.org/10.1016/j.envint.2020.105704",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166121+00:00"
+    "updated_at": "2026-06-29T22:39:46.518489+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4388758906",
+    "doi": "10.1016/j.oneear.2023.10.017",
+    "title": "The perceived feasibility of behavior change is positively associated with support for domain-matched climate policies",
+    "year": 2023,
+    "publication_date": "2023-11-01",
+    "type": "article",
+    "journal_or_source": "One Earth",
+    "authors": [
+      "Charlotte A. Kukowski",
+      "Wilhelm Hofmann",
+      "Jon Roozenbeek",
+      "Sander van der Linden",
+      "Michael P. Vandenbergh",
+      "Kristian Steensen Nielsen"
+    ],
+    "affiliations": [
+      "Copenhagen Business School",
+      "Ruhr University Bochum",
+      "University of Cambridge",
+      "Vanderbilt University"
+    ],
+    "citation_count": 25,
+    "openalex_url": "https://openalex.org/W4388758906",
+    "landing_page_url": "https://doi.org/10.1016/j.oneear.2023.10.017",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518804+00:00"
   },
   {
     "id": "https://openalex.org/W4383224299",
@@ -416,7 +1035,7 @@
     "landing_page_url": "https://doi.org/10.3389/fbuil.2023.1206474",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165964+00:00"
+    "updated_at": "2026-06-29T22:39:46.518318+00:00"
   },
   {
     "id": "https://openalex.org/W3110837237",
@@ -443,7 +1062,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.est.0c05746",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166136+00:00"
+    "updated_at": "2026-06-29T22:39:46.518501+00:00"
   },
   {
     "id": "https://openalex.org/W4382602825",
@@ -465,7 +1084,34 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2023.115198",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165974+00:00"
+    "updated_at": "2026-06-29T22:39:46.518328+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3124624966",
+    "doi": "10.1002/aqc.3479",
+    "title": "Seasonal distribution of the Indo‐Pacific humpback dolphins: Implications for coastal habitat management",
+    "year": 2021,
+    "publication_date": "2021-01-26",
+    "type": "article",
+    "journal_or_source": "Aquatic Conservation Marine and Freshwater Ecosystems",
+    "authors": [
+      "Chun‐Chieh Wang",
+      "Youhou Xu",
+      "Na Li",
+      "Chongwei Peng",
+      "Haiping Wu",
+      "Shiang‐Lin Huang"
+    ],
+    "affiliations": [
+      "Beibu Gulf University",
+      "Guangxi Academy of Sciences"
+    ],
+    "citation_count": 14,
+    "openalex_url": "https://openalex.org/W3124624966",
+    "landing_page_url": "https://doi.org/10.1002/aqc.3479",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T22:39:46.518816+00:00"
   },
   {
     "id": "https://openalex.org/W4200173985",
@@ -491,7 +1137,7 @@
     "landing_page_url": "https://doi.org/10.1088/1755-1315/925/1/012043",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.166149+00:00"
+    "updated_at": "2026-06-29T22:39:46.518513+00:00"
   },
   {
     "id": "https://openalex.org/W4412720576",
@@ -519,7 +1165,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118508",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165648+00:00"
+    "updated_at": "2026-06-29T22:39:46.518047+00:00"
   },
   {
     "id": "https://openalex.org/W4409393883",
@@ -549,7 +1195,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf093",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165662+00:00"
+    "updated_at": "2026-06-29T22:39:46.518062+00:00"
   },
   {
     "id": "https://openalex.org/W7125862476",
@@ -576,7 +1222,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf299",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165561+00:00"
+    "updated_at": "2026-06-29T22:39:46.517969+00:00"
   },
   {
     "id": "https://openalex.org/W4417102096",
@@ -617,7 +1263,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.estlett.5c00790",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165606+00:00"
+    "updated_at": "2026-06-29T22:39:46.518003+00:00"
   },
   {
     "id": "https://openalex.org/W4415614905",
@@ -649,7 +1295,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf260",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165624+00:00"
+    "updated_at": "2026-06-29T22:39:46.518022+00:00"
   },
   {
     "id": "https://openalex.org/W4415638434",
@@ -675,6 +1321,6 @@
     "landing_page_url": "https://doi.org/10.1088/2515-7620/ae188d",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T22:12:53.165636+00:00"
+    "updated_at": "2026-06-29T22:39:46.518034+00:00"
   }
 ]
