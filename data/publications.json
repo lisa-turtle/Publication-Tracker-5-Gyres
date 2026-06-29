@@ -24,7 +24,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf299",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.824687+00:00"
+    "updated_at": "2026-06-29T21:41:18.509390+00:00"
   },
   {
     "id": "https://openalex.org/W7165683524",
@@ -41,7 +41,7 @@
     "landing_page_url": "https://doi.org/10.1515/9798855807998-009",
     "is_open_access": false,
     "manual_seed": false,
-    "updated_at": "2026-06-29T21:28:05.828297+00:00"
+    "updated_at": "2026-06-29T21:41:18.513939+00:00"
   },
   {
     "id": "https://openalex.org/W7165459649",
@@ -62,7 +62,7 @@
     "landing_page_url": "https://doi.org/10.5281/zenodo.20778807",
     "is_open_access": true,
     "manual_seed": false,
-    "updated_at": "2026-06-29T21:28:05.828934+00:00"
+    "updated_at": "2026-06-29T21:41:18.514724+00:00"
   },
   {
     "id": "https://openalex.org/W7165466736",
@@ -83,7 +83,7 @@
     "landing_page_url": "https://doi.org/10.5281/zenodo.20778806",
     "is_open_access": true,
     "manual_seed": false,
-    "updated_at": "2026-06-29T21:28:05.829024+00:00"
+    "updated_at": "2026-06-29T21:41:18.514843+00:00"
   },
   {
     "id": "https://openalex.org/W4412720576",
@@ -111,7 +111,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118508",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.824776+00:00"
+    "updated_at": "2026-06-29T21:41:18.509477+00:00"
   },
   {
     "id": "https://openalex.org/W4409393883",
@@ -141,7 +141,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf093",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.824790+00:00"
+    "updated_at": "2026-06-29T21:41:18.509491+00:00"
   },
   {
     "id": "https://openalex.org/W4417102096",
@@ -182,7 +182,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.estlett.5c00790",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.824730+00:00"
+    "updated_at": "2026-06-29T21:41:18.509432+00:00"
   },
   {
     "id": "https://openalex.org/W4415614905",
@@ -214,7 +214,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf260",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.824750+00:00"
+    "updated_at": "2026-06-29T21:41:18.509451+00:00"
   },
   {
     "id": "https://openalex.org/W4415638434",
@@ -240,7 +240,7 @@
     "landing_page_url": "https://doi.org/10.1088/2515-7620/ae188d",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.824762+00:00"
+    "updated_at": "2026-06-29T21:41:18.509463+00:00"
   },
   {
     "id": "https://openalex.org/W4395069336",
@@ -297,7 +297,7 @@
     "landing_page_url": "https://doi.org/10.1126/sciadv.adj8275",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.824996+00:00"
+    "updated_at": "2026-06-29T21:41:18.509715+00:00"
   },
   {
     "id": "https://openalex.org/W4323531449",
@@ -337,7 +337,7 @@
     "landing_page_url": "https://doi.org/10.1371/journal.pone.0281596",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.825038+00:00"
+    "updated_at": "2026-06-29T21:41:18.509759+00:00"
   },
   {
     "id": "https://openalex.org/W4383224299",
@@ -366,7 +366,7 @@
     "landing_page_url": "https://doi.org/10.3389/fbuil.2023.1206474",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.825010+00:00"
+    "updated_at": "2026-06-29T21:41:18.509729+00:00"
   },
   {
     "id": "https://openalex.org/W4382602825",
@@ -388,7 +388,44 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2023.115198",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-29T21:28:05.825017+00:00"
+    "updated_at": "2026-06-29T21:41:18.509737+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3161799540",
+    "doi": "10.1021/acsestwater.0c00292",
+    "title": "Holistic Assessment of Microplastics and Other Anthropogenic Microdebris in an Urban Bay Sheds Light on Their Sources and Fate",
+    "year": 2021,
+    "publication_date": "2021-05-14",
+    "type": "article",
+    "journal_or_source": "ACS ES&T Water",
+    "authors": [
+      "Xia Zhu",
+      "Keenan Munno",
+      "Jelena Grbić",
+      "Larissa M. Werbowski",
+      "Jacqueline Bikker",
+      "Annissa Ho",
+      "Edie Guo",
+      "Meg Sedlak",
+      "Rebecca Sutton",
+      "Carolynn Box",
+      "Diana Lin",
+      "Alicia N. Gilbreath",
+      "Rusty C. Holleman",
+      "Marie‐Josée Fortin",
+      "Chelsea M. Rochman"
+    ],
+    "affiliations": [
+      "San Francisco Estuary Institute",
+      "University of California, Davis",
+      "University of Toronto"
+    ],
+    "citation_count": 67,
+    "openalex_url": "https://openalex.org/W3161799540",
+    "landing_page_url": "https://doi.org/10.1021/acsestwater.0c00292",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509882+00:00"
   },
   {
     "id": "https://openalex.org/W4200173985",
@@ -413,8 +450,105 @@
     "openalex_url": "https://openalex.org/W4200173985",
     "landing_page_url": "https://doi.org/10.1088/1755-1315/925/1/012043",
     "is_open_access": true,
-    "manual_seed": false,
-    "updated_at": "2026-06-29T21:28:05.860220+00:00"
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509918+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3041758622",
+    "doi": "10.1177/0003702820945713",
+    "title": "Sampling and Quality Assurance and Quality Control: A Guide for Scientists Investigating the Occurrence of Microplastics Across Matrices",
+    "year": 2020,
+    "publication_date": "2020-07-09",
+    "type": "article",
+    "journal_or_source": "Applied Spectroscopy",
+    "authors": [
+      "Susanne M. Brander",
+      "Violet Compton Renick",
+      "Melissa M. Foley",
+      "Clare Steele",
+      "Mary Woo",
+      "Amy Lusher",
+      "Steve Carr",
+      "Paul A. Helm",
+      "Carolynn Box",
+      "Samuel L. Cherniak",
+      "Robert C. Andrews",
+      "Chelsea M. Rochman"
+    ],
+    "affiliations": [
+      "California State University, Channel Islands",
+      "Los Angeles Unified School District",
+      "Ministry of the Environment, Conservation and Parks",
+      "Norwegian Institute for Water Research",
+      "Orange County School",
+      "Oregon Department of Fish and Wildlife",
+      "Oregon State University",
+      "San Francisco Estuary Institute",
+      "University of Toronto"
+    ],
+    "citation_count": 361,
+    "openalex_url": "https://openalex.org/W3041758622",
+    "landing_page_url": "https://doi.org/10.1177/0003702820945713",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509804+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3112962566",
+    "doi": "10.1016/j.jhazmat.2020.124770",
+    "title": "Recommended best practices for collecting, analyzing, and reporting microplastics in environmental media: Lessons learned from comprehensive monitoring of San Francisco Bay",
+    "year": 2020,
+    "publication_date": "2020-12-04",
+    "type": "article",
+    "journal_or_source": "Journal of Hazardous Materials",
+    "authors": [
+      "Ezra Miller",
+      "Meg Sedlak",
+      "Diana Lin",
+      "Carolynn Box",
+      "Christopher Holleman",
+      "Chelsea M. Rochman",
+      "Rebecca Sutton"
+    ],
+    "affiliations": [
+      "San Francisco Estuary Institute",
+      "University of California, Davis",
+      "University of Toronto"
+    ],
+    "citation_count": 190,
+    "openalex_url": "https://openalex.org/W3112962566",
+    "landing_page_url": "https://doi.org/10.1016/j.jhazmat.2020.124770",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509818+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3016054654",
+    "doi": "10.1016/j.envint.2020.105704",
+    "title": "Mitigation strategies to reverse the rising trend of plastics in Polar Regions",
+    "year": 2020,
+    "publication_date": "2020-04-08",
+    "type": "article",
+    "journal_or_source": "Environment International",
+    "authors": [
+      "Marcus Eriksen",
+      "Franco Borgogno",
+      "Patricia Villarrubia-Gómez",
+      "Emily E. Anderson",
+      "Carolynn Box",
+      "Nicole Trenholm"
+    ],
+    "affiliations": [
+      "University Institute of European Studies",
+      "University of Maryland, Baltimore County",
+      "University of Toronto"
+    ],
+    "citation_count": 49,
+    "openalex_url": "https://openalex.org/W3016054654",
+    "landing_page_url": "https://doi.org/10.1016/j.envint.2020.105704",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509892+00:00"
   },
   {
     "id": "https://openalex.org/W3110837237",
@@ -440,7 +574,166 @@
     "openalex_url": "https://openalex.org/W3110837237",
     "landing_page_url": "https://doi.org/10.1021/acs.est.0c05746",
     "is_open_access": false,
-    "manual_seed": false,
-    "updated_at": "2026-06-29T21:28:05.915646+00:00"
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509906+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2922699723",
+    "doi": "10.1016/j.marpolbul.2019.03.036",
+    "title": "Spatial trends and drivers of marine debris accumulation on shorelines in South Eleuthera, The Bahamas using citizen science",
+    "year": 2019,
+    "publication_date": "2019-03-21",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Kristal K. Ambrose",
+      "Carolynn Box",
+      "James Boxall",
+      "Annabelle Brooks",
+      "Marcus Eriksen",
+      "Joan Fabrés",
+      "Georgios Fylakis",
+      "Tony R. ‎Walker"
+    ],
+    "affiliations": [
+      "Cape Eleuthera Institute",
+      "Dalhousie University",
+      "Grid-Arendal",
+      "Lund University"
+    ],
+    "citation_count": 132,
+    "openalex_url": "https://openalex.org/W2922699723",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2019.03.036",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509863+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2759784647",
+    "doi": "10.1016/j.envpol.2017.09.058",
+    "title": "Microplastic sampling with the AVANI trawl compared to two neuston trawls in the Bay of Bengal and South Pacific",
+    "year": 2017,
+    "publication_date": "2017-09-29",
+    "type": "article",
+    "journal_or_source": "Environmental Pollution",
+    "authors": [
+      "Marcus Eriksen",
+      "Max Liboiron",
+      "Tim Kiessling",
+      "Louis Charron",
+      "A. Alling",
+      "Laurent Lebreton",
+      "Heather Richards",
+      "Barent Roth",
+      "Nicolas C. Ory",
+      "Valeria Hidalgo‐Ruz",
+      "Erika Meerhoff",
+      "Carolynn Box",
+      "Anna Cummins",
+      "Martín Thiel"
+    ],
+    "affiliations": [
+      "Centro de Estudios Científicos",
+      "Memorial University of Newfoundland",
+      "New School",
+      "Olympus (Japan)",
+      "San Francisco State University",
+      "Sphere Institute",
+      "The Ocean Cleanup",
+      "Universidad Católica del Norte"
+    ],
+    "citation_count": 139,
+    "openalex_url": "https://openalex.org/W2759784647",
+    "landing_page_url": "https://doi.org/10.1016/j.envpol.2017.09.058",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509850+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2410776720",
+    "doi": "10.1016/j.marpolbul.2016.05.077",
+    "title": "Microplastic contamination in the San Francisco Bay, California, USA",
+    "year": 2016,
+    "publication_date": "2016-06-11",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Rebecca Sutton",
+      "Sherri A. Mason",
+      "Shavonne K. Stanek",
+      "Ellen Willis‐Norton",
+      "Ian Wren",
+      "Carolynn Box"
+    ],
+    "affiliations": [
+      "Riverkeeper",
+      "SUNY Fredonia",
+      "San Francisco Estuary Institute"
+    ],
+    "citation_count": 428,
+    "openalex_url": "https://openalex.org/W2410776720",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2016.05.077",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509784+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2428524794",
+    "doi": "10.1016/j.jglr.2016.05.009",
+    "title": "Pelagic plastic pollution within the surface waters of Lake Michigan, USA",
+    "year": 2016,
+    "publication_date": "2016-06-19",
+    "type": "article",
+    "journal_or_source": "Journal of Great Lakes Research",
+    "authors": [
+      "Sherri A. Mason",
+      "Laura Kammin",
+      "Marcus Eriksen",
+      "Ghadah Aleid",
+      "Stiv Wilson",
+      "Carolyn Box",
+      "Nick Williamson",
+      "Anjanette Riley"
+    ],
+    "affiliations": [
+      "Illinois Indiana Sea Grant",
+      "SUNY Fredonia"
+    ],
+    "citation_count": 120,
+    "openalex_url": "https://openalex.org/W2428524794",
+    "landing_page_url": "https://doi.org/10.1016/j.jglr.2016.05.009",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509831+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2150503350",
+    "doi": "10.1016/j.marpolbul.2013.10.007",
+    "title": "Microplastic pollution in the surface waters of the Laurentian Great Lakes",
+    "year": 2013,
+    "publication_date": "2013-10-26",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Marcus Eriksen",
+      "Sherri A. Mason",
+      "Stiv Wilson",
+      "Carolyn Box",
+      "Ann Zellers",
+      "William J. Edwards",
+      "Hannah Farley",
+      "Stephen Amato"
+    ],
+    "affiliations": [
+      "Niagara University",
+      "SUNY Fredonia",
+      "York University"
+    ],
+    "citation_count": 1836,
+    "openalex_url": "https://openalex.org/W2150503350",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.10.007",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:41:18.509772+00:00"
   }
 ]
