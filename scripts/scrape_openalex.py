@@ -185,6 +185,11 @@ def main() -> None:
     aliases = config["organization"]["aliases"]
     keep_types = set(config.get("openalex_types", []))
 
+  exclude_dois = {
+    doi.lower().replace("https://doi.org/", "").strip()
+    for doi in config.get("exclude_dois", [])
+  }
+
     found: dict[str, dict[str, Any]] = {}
     manual_ids: set[str] = set()
 
@@ -202,15 +207,26 @@ def main() -> None:
             if key:
                 found[key] = work
 
-    simplified = []
-    for key, work in found.items():
-        manual = key in manual_ids
-        if not manual:
-            if not is_peer_reviewed_like(work, keep_types):
-                continue
-            if not matches_org(work, aliases):
-                continue
-        simplified.append(simplify_work(work, manual=manual))
+   simplified = []
+
+for key, work in found.items():
+
+    doi = (work.get("doi") or "")
+    doi = doi.replace("https://doi.org/", "").lower().strip()
+
+    # Skip excluded DOIs
+    if doi in exclude_dois:
+        continue
+
+    manual = key in manual_ids
+
+    if not manual:
+        if not is_peer_reviewed_like(work, keep_types):
+            continue
+        if not matches_org(work, aliases):
+            continue
+
+    simplified.append(simplify_work(work, manual=manual))
 
     simplified.sort(key=lambda p: (p.get("year") or 0, p.get("citation_count") or 0), reverse=True)
     DATA_DIR.mkdir(exist_ok=True)
