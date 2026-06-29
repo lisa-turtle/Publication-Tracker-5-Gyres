@@ -31,3 +31,31 @@ a { color:var(--accent); font-weight:650; text-decoration:none; }
 footer { padding:0 24px 36px; }
 @media (max-width: 800px) { .cards { grid-template-columns:repeat(2,minmax(0,1fr)); } .panel-head { flex-direction:column; } input { min-width:100%; } }
 @media (max-width: 520px) { .cards { grid-template-columns:1fr; } }
+.year-chart-with-axis {
+  display: flex;
+  align-items: flex-end;
+  gap: 12px;
+}
+
+.y-axis {
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: right;
+  font-size: 0.75rem;
+  color: #666;
+}
+
+.bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  height: 210px;
+}
+
+.y-axis-label {
+  margin-top: 6px;
+  font-size: 0.8rem;
+  color: #666;
+}
