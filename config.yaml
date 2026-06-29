@@ -12,6 +12,7 @@ organization:
 # The scraper searches these names plus organization aliases, then keeps records
 # where the org appears in an affiliation, author text, abstract/title, or manual DOI list.
 authors:
+  - "Carolynn Box"
   - "Lisa M Erdle"
   - "Anna Cummins"
   - "Marcus Eriksen"
