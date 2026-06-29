@@ -207,31 +207,40 @@ def main() -> None:
             if key:
                 found[key] = work
 
-   simplified = []
+    simplified = []
 
-for key, work in found.items():
+    for key, work in found.items():
+        doi = (work.get("doi") or "")
+        doi = doi.replace("https://doi.org/", "").lower().strip()
 
-    doi = (work.get("doi") or "")
-    doi = doi.replace("https://doi.org/", "").lower().strip()
-
-    # Skip excluded DOIs
-    if doi in exclude_dois:
-        continue
-
-    manual = key in manual_ids
-
-    if not manual:
-        if not is_peer_reviewed_like(work, keep_types):
-            continue
-        if not matches_org(work, aliases):
+        if doi in exclude_dois:
             continue
 
-    simplified.append(simplify_work(work, manual=manual))
+        manual = key in manual_ids
 
-    simplified.sort(key=lambda p: (p.get("year") or 0, p.get("citation_count") or 0), reverse=True)
+        if not manual:
+            if not is_peer_reviewed_like(work, keep_types):
+                continue
+            if not matches_org(work, aliases):
+                continue
+
+        simplified.append(simplify_work(work, manual=manual))
+
+    simplified.sort(
+        key=lambda p: (p.get("citation_count") or 0, p.get("year") or 0),
+        reverse=True
+    )
+
     DATA_DIR.mkdir(exist_ok=True)
-    (DATA_DIR / "publications.json").write_text(json.dumps(simplified, indent=2, ensure_ascii=False), encoding="utf-8")
-    (DATA_DIR / "metrics.json").write_text(json.dumps(compute_metrics(simplified), indent=2), encoding="utf-8")
+    (DATA_DIR / "publications.json").write_text(
+        json.dumps(simplified, indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
+    (DATA_DIR / "metrics.json").write_text(
+        json.dumps(compute_metrics(simplified), indent=2),
+        encoding="utf-8"
+    )
+
     print(f"Saved {len(simplified)} publications")
 
 
