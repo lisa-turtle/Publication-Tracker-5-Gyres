@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>5 Gyres Publications Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">The 5 Gyres Institute</p>
+      <h1>Peer-reviewed publications dashboard</h1>
+      <p class="subhead">Automated publication discovery, citation tracking, and organizational h-index.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="cards" aria-label="Summary metrics">
+      <article><span id="publicationCount">—</span><p>publications</p></article>
+      <article><span id="totalCitations">—</span><p>total citations</p></article>
+      <article><span id="hIndex">—</span><p>organizational h-index</p></article>
+      <article><span id="updatedAt">—</span><p>last updated</p></article>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Publications by year</h2>
+        <p id="citationSource"></p>
+      </div>
+      <div id="yearChart" class="bar-chart"></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head table-head">
+        <div>
+          <h2>Publication list</h2>
+          <p>Sort by year or citations; filter by author, title, journal, or DOI.</p>
+        </div>
+        <input id="searchBox" type="search" placeholder="Search publications…" />
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th data-sort="year">Year</th>
+              <th>Title</th>
+              <th>Authors</th>
+              <th>Source</th>
+              <th data-sort="citation_count">Citations</th>
+              <th>DOI</th>
+            </tr>
+          </thead>
+          <tbody id="pubTable"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Data source: OpenAlex API plus manual DOI seeds in <code>config.yaml</code>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

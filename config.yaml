@@ -1,0 +1,33 @@
+# 5 Gyres Publications Scraper configuration
+# Edit these lists as you discover missing publications or staff aliases.
+organization:
+  name: "The 5 Gyres Institute"
+  aliases:
+    - "5 Gyres"
+    - "5Gyres"
+    - "5 Gyres Institute"
+    - "The 5 Gyres Institute"
+
+# Optional but recommended: add known staff/coauthor names to improve discovery.
+# The scraper searches these names plus organization aliases, then keeps records
+# where the org appears in an affiliation, author text, abstract/title, or manual DOI list.
+authors:
+  - "Lisa Erdle"
+  - "Anna Cummins"
+  - "Marcus Eriksen"
+  - "Victoria Fulfer"
+
+# Add known publication DOIs here to ensure they are included even if affiliation metadata is incomplete.
+manual_dois: []
+  # - "10.1016/j.envpol.2020.114..."
+
+# Publication types to keep from OpenAlex.
+openalex_types:
+  - "article"
+  - "review"
+  - "book-chapter"
+  - "proceedings-article"
+
+# Contact email is recommended by OpenAlex for polite API usage.
+# Set this to your organizational email before first run.
+mailto: "science@5gyres.org"
