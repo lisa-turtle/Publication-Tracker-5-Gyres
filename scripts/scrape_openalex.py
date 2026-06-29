@@ -185,10 +185,10 @@ def main() -> None:
     aliases = config["organization"]["aliases"]
     keep_types = set(config.get("openalex_types", []))
 
-  exclude_dois = {
-    doi.lower().replace("https://doi.org/", "").strip()
-    for doi in config.get("exclude_dois", [])
-  }
+    exclude_dois = {
+        doi.lower().replace("https://doi.org/", "").strip()
+        for doi in config.get("exclude_dois", [])
+    }
 
     found: dict[str, dict[str, Any]] = {}
     manual_ids: set[str] = set()
