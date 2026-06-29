@@ -1,1 +1,15 @@
-{"updated_at": null, "publication_count": 0, "total_citations": 0, "h_index": 0, "publications_by_year": {}, "citation_source": "OpenAlex cited_by_count"}
+{
+  "updated_at": "2026-06-29T21:28:05.994459+00:00",
+  "publication_count": 15,
+  "total_citations": 605,
+  "h_index": 6,
+  "publications_by_year": {
+    "2020": 1,
+    "2021": 1,
+    "2023": 3,
+    "2024": 1,
+    "2025": 5,
+    "2026": 4
+  },
+  "citation_source": "OpenAlex cited_by_count"
+}

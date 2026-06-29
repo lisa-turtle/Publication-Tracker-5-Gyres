@@ -1,1 +1,446 @@
-[]
+[
+  {
+    "id": "https://openalex.org/W7125862476",
+    "doi": "10.1093/etojnl/vgaf299",
+    "title": "Cotton and polyester microfibers cause chronic toxicity in the freshwater invertebrate <i>Chironomus dilutus</i>",
+    "year": 2026,
+    "publication_date": "2026-01-27",
+    "type": "article",
+    "journal_or_source": "Environmental Toxicology and Chemistry",
+    "authors": [
+      "Lisa M Erdle",
+      "Trudy Watson-Leung",
+      "Dorsa Nouri-Parto",
+      "Chelsea M Rochman"
+    ],
+    "affiliations": [
+      "Ministry of Environment",
+      "Ministry of the Environment, Conservation and Parks",
+      "University of Santa Monica",
+      "University of Toronto"
+    ],
+    "citation_count": 0,
+    "openalex_url": "https://openalex.org/W7125862476",
+    "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf299",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.824687+00:00"
+  },
+  {
+    "id": "https://openalex.org/W7165683524",
+    "doi": "10.1515/9798855807998-009",
+    "title": "Chapter 5 Gyres",
+    "year": 2026,
+    "publication_date": "2026-06-23",
+    "type": "book-chapter",
+    "journal_or_source": "SUNY Press eBooks",
+    "authors": [],
+    "affiliations": [],
+    "citation_count": 0,
+    "openalex_url": "https://openalex.org/W7165683524",
+    "landing_page_url": "https://doi.org/10.1515/9798855807998-009",
+    "is_open_access": false,
+    "manual_seed": false,
+    "updated_at": "2026-06-29T21:28:05.828297+00:00"
+  },
+  {
+    "id": "https://openalex.org/W7165459649",
+    "doi": "10.5281/zenodo.20778807",
+    "title": "Amendment CLXXIV — Ocean Gyre Geometry and Thermohaline Circulation as SOL Coherence Structure",
+    "year": 2026,
+    "publication_date": "2026-06-21",
+    "type": "article",
+    "journal_or_source": "Zenodo (CERN European Organization for Nuclear Research)",
+    "authors": [
+      "Justin McCaul"
+    ],
+    "affiliations": [
+      "Eastern Oklahoma State College"
+    ],
+    "citation_count": 0,
+    "openalex_url": "https://openalex.org/W7165459649",
+    "landing_page_url": "https://doi.org/10.5281/zenodo.20778807",
+    "is_open_access": true,
+    "manual_seed": false,
+    "updated_at": "2026-06-29T21:28:05.828934+00:00"
+  },
+  {
+    "id": "https://openalex.org/W7165466736",
+    "doi": "10.5281/zenodo.20778806",
+    "title": "Amendment CLXXIV — Ocean Gyre Geometry and Thermohaline Circulation as SOL Coherence Structure",
+    "year": 2026,
+    "publication_date": "2026-06-21",
+    "type": "article",
+    "journal_or_source": "Zenodo (CERN European Organization for Nuclear Research)",
+    "authors": [
+      "Justin McCaul"
+    ],
+    "affiliations": [
+      "Eastern Oklahoma State College"
+    ],
+    "citation_count": 0,
+    "openalex_url": "https://openalex.org/W7165466736",
+    "landing_page_url": "https://doi.org/10.5281/zenodo.20778806",
+    "is_open_access": true,
+    "manual_seed": false,
+    "updated_at": "2026-06-29T21:28:05.829024+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4412720576",
+    "doi": "10.1016/j.marpolbul.2025.118508",
+    "title": "Marine litter in mangrove soils of Roatán, Western Caribbean: Abundance, sources, and ingestion by an American crocodile (Crocodylus acutus)",
+    "year": 2025,
+    "publication_date": "2025-07-29",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Zara Zuniga-Lopez",
+      "Lisa M. Erdle",
+      "Victoria M Fulfer",
+      "Luis Flores",
+      "Gisselle Brady",
+      "Jesse C. Vermaire"
+    ],
+    "affiliations": [
+      "Bay Institute",
+      "Carleton University",
+      "The Spine Institute"
+    ],
+    "citation_count": 5,
+    "openalex_url": "https://openalex.org/W4412720576",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118508",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.824776+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4409393883",
+    "doi": "10.1093/etojnl/vgaf093",
+    "title": "Exposure to cotton and polyester microfibers leads to different fatty acid profiles and chemical contaminants concentrations in juvenile rainbow trout (<i>Oncorhynchus mykiss</i>)",
+    "year": 2025,
+    "publication_date": "2025-04-12",
+    "type": "article",
+    "journal_or_source": "Environmental Toxicology and Chemistry",
+    "authors": [
+      "Lisa M. Erdle",
+      "Kathleen Stevack",
+      "Camilla Parzanini",
+      "Michael T. Arts",
+      "Chelsea M. Rochman"
+    ],
+    "affiliations": [
+      "Metropolitan University",
+      "Ministry of Environment",
+      "Ministry of the Environment, Conservation and Parks",
+      "The Spine Institute",
+      "Toronto Metropolitan University",
+      "University of Toronto"
+    ],
+    "citation_count": 2,
+    "openalex_url": "https://openalex.org/W4409393883",
+    "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf093",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.824790+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4417102096",
+    "doi": "10.1021/acs.estlett.5c00790",
+    "title": "Advancing Microfiber Research: A Call for Chemical Transparency and Coordination between Science and Industry",
+    "year": 2025,
+    "publication_date": "2025-12-08",
+    "type": "article",
+    "journal_or_source": "Environmental Science & Technology Letters",
+    "authors": [
+      "Lisa M. Erdle",
+      "Stephen Taylor",
+      "Lewis Shuler",
+      "Oladimeji Ayo Iwalaye",
+      "Tong Yang",
+      "Elliot Bland",
+      "Susanne M. Brander",
+      "Win Cowger",
+      "Victoria M Fulfer",
+      "Timnit Kefela",
+      "Kelly J. Sheridan"
+    ],
+    "affiliations": [
+      "California State University, Channel Islands",
+      "Galena Biopharma (United States)",
+      "Harvard University",
+      "Jiangsu Institute of Parasitic Diseases",
+      "Oregon Department of Fish and Wildlife",
+      "Oregon State University",
+      "Outcomes Research Consortium",
+      "Redress",
+      "Southern California Institute for Research and Education",
+      "University of Santa Monica",
+      "Whiteley Clinic"
+    ],
+    "citation_count": 0,
+    "openalex_url": "https://openalex.org/W4417102096",
+    "landing_page_url": "https://doi.org/10.1021/acs.estlett.5c00790",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.824730+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4415614905",
+    "doi": "10.1093/etojnl/vgaf260",
+    "title": "Airborne microfiber capture: secondary filtration a solution to filter microfiber emissions from clothing dryers",
+    "year": 2025,
+    "publication_date": "2025-10-27",
+    "type": "article",
+    "journal_or_source": "Environmental Toxicology and Chemistry",
+    "authors": [
+      "Victoria M Fulfer",
+      "Chun-Wei Lo",
+      "Stephanie Wang",
+      "Monica M. Arienzo",
+      "Diana Lin",
+      "Lisa M. Erdle"
+    ],
+    "affiliations": [
+      "Alberta Conservation Association",
+      "Desert Research Institute",
+      "Fisheries and Oceans Canada",
+      "San Francisco Estuary Institute",
+      "The Spine Institute",
+      "University of British Columbia",
+      "University of Santa Monica"
+    ],
+    "citation_count": 0,
+    "openalex_url": "https://openalex.org/W4415614905",
+    "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf260",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.824750+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4415638434",
+    "doi": "10.1088/2515-7620/ae188d",
+    "title": "Commercial clothes dryers: a source of microfiber emissions to air",
+    "year": 2025,
+    "publication_date": "2025-10-28",
+    "type": "article",
+    "journal_or_source": "Environmental Research Communications",
+    "authors": [
+      "Lisa M. Erdle",
+      "Victoria M Fulfer",
+      "Lucinda Anderson",
+      "Win Cowger",
+      "Marcus Eriksen"
+    ],
+    "affiliations": [
+      "Brown University",
+      "University of California, Riverside"
+    ],
+    "citation_count": 0,
+    "openalex_url": "https://openalex.org/W4415638434",
+    "landing_page_url": "https://doi.org/10.1088/2515-7620/ae188d",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.824762+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4395069336",
+    "doi": "10.1126/sciadv.adj8275",
+    "title": "Global producer responsibility for plastic pollution",
+    "year": 2024,
+    "publication_date": "2024-04-24",
+    "type": "article",
+    "journal_or_source": "Science Advances",
+    "authors": [
+      "Win Cowger",
+      "Kathryn Willis",
+      "S. E. T. Bullock",
+      "Katie Conlon",
+      "Jorge Emmanuel",
+      "Lisa M. Erdle",
+      "Marcus Eriksen",
+      "Trisia Farrelly",
+      "Britta Denise Hardesty",
+      "Kristiina Kerge",
+      "N. Li",
+      "Yedan Li",
+      "Adam Liebman",
+      "Neil Tangri",
+      "Martín Thiel",
+      "Patricia Villarrubia-Gómez",
+      "Tony R. ‎Walker",
+      "Mengjiao Wang"
+    ],
+    "affiliations": [
+      "Alliance Pharmaceutical (United States)",
+      "CSIRO Oceans and Atmosphere",
+      "Center of Applied Ecology & Sustainability",
+      "Centre for Marine Socioecology",
+      "Dalhousie University",
+      "DePauw University",
+      "Estonian University of Life Sciences",
+      "Massey University",
+      "Moore College of Art and Design",
+      "Portland State University",
+      "Santa Monica College",
+      "Silliman University",
+      "Smithsonian Environmental Research Center",
+      "Stockholm University",
+      "Universidad Católica del Norte",
+      "University of California, Berkeley",
+      "University of California, Riverside",
+      "University of Exeter",
+      "University of Tasmania",
+      "University of the Philippines System"
+    ],
+    "citation_count": 131,
+    "openalex_url": "https://openalex.org/W4395069336",
+    "landing_page_url": "https://doi.org/10.1126/sciadv.adj8275",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.824996+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4323531449",
+    "doi": "10.1371/journal.pone.0281596",
+    "title": "A growing plastic smog, now estimated to be over 170 trillion plastic particles afloat in the world’s oceans—Urgent solutions required",
+    "year": 2023,
+    "publication_date": "2023-03-08",
+    "type": "article",
+    "journal_or_source": "PLoS ONE",
+    "authors": [
+      "Marcus Eriksen",
+      "Win Cowger",
+      "Lisa M. Erdle",
+      "Scott Coffin",
+      "Patricia Villarrubia-Gómez",
+      "Charles J. Moore",
+      "Edward J. Carpenter",
+      "Robert H. Day",
+      "Martín Thiel",
+      "Chris Wilcox"
+    ],
+    "affiliations": [
+      "Alaska Biological Research (United States)",
+      "Center of Applied Ecology & Sustainability",
+      "Centro de Estudios Científicos",
+      "Minderoo Foundation",
+      "San Francisco State University",
+      "Southern California Institute for Research and Education",
+      "Stockholm Resilience Centre",
+      "Stockholm University",
+      "Universidad Católica del Norte",
+      "University of California, Riverside",
+      "Walk Free Foundation"
+    ],
+    "citation_count": 398,
+    "openalex_url": "https://openalex.org/W4323531449",
+    "landing_page_url": "https://doi.org/10.1371/journal.pone.0281596",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.825038+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4383224299",
+    "doi": "10.3389/fbuil.2023.1206474",
+    "title": "Assessing benefits and risks of incorporating plastic waste in construction materials",
+    "year": 2023,
+    "publication_date": "2023-07-05",
+    "type": "article",
+    "journal_or_source": "Frontiers in Built Environment",
+    "authors": [
+      "Erica Cirino",
+      "Sandra Curtis",
+      "Janette Wallis",
+      "Tierney M. Thys",
+      "James Robert Brown",
+      "Charles Rolsky",
+      "Lisa M. Erdle"
+    ],
+    "affiliations": [
+      "Arizona State University",
+      "California Academy of Sciences",
+      "Public Health Institute"
+    ],
+    "citation_count": 23,
+    "openalex_url": "https://openalex.org/W4383224299",
+    "landing_page_url": "https://doi.org/10.3389/fbuil.2023.1206474",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.825010+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4382602825",
+    "doi": "10.1016/j.marpolbul.2023.115198",
+    "title": "Monitor compartments, mitigate sectors: A framework to deconstruct the complexity of plastic pollution",
+    "year": 2023,
+    "publication_date": "2023-06-29",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Lisa M. Erdle",
+      "Marcus Eriksen"
+    ],
+    "affiliations": [
+      "AmeriCares"
+    ],
+    "citation_count": 17,
+    "openalex_url": "https://openalex.org/W4382602825",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2023.115198",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-29T21:28:05.825017+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4200173985",
+    "doi": "10.1088/1755-1315/925/1/012043",
+    "title": "Microplastic Observations in the Waters of Labuan Bajo-Gili Trawangan, Indonesia",
+    "year": 2021,
+    "publication_date": "2021-11-01",
+    "type": "article",
+    "journal_or_source": "IOP Conference Series Earth and Environmental Science",
+    "authors": [
+      "Engki A Kisnarti",
+      "Nining Sari Ningsih",
+      "Mutiara Rachmat Putri",
+      "Nani Hendriati",
+      "Carolyn Box"
+    ],
+    "affiliations": [
+      "Bandung Institute of Technology",
+      "Ministry of Marine Affairs and Fisheries"
+    ],
+    "citation_count": 9,
+    "openalex_url": "https://openalex.org/W4200173985",
+    "landing_page_url": "https://doi.org/10.1088/1755-1315/925/1/012043",
+    "is_open_access": true,
+    "manual_seed": false,
+    "updated_at": "2026-06-29T21:28:05.860220+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3110837237",
+    "doi": "10.1021/acs.est.0c05746",
+    "title": "Think Global, Act Local: Local Knowledge Is Critical to Inform Positive Change When It Comes to Microplastics",
+    "year": 2020,
+    "publication_date": "2020-12-09",
+    "type": "article",
+    "journal_or_source": "Environmental Science & Technology",
+    "authors": [
+      "Chelsea M. Rochman",
+      "Keenan Munno",
+      "Carolynn Box",
+      "Anna Cummins",
+      "Xia Zhu",
+      "Rebecca Sutton"
+    ],
+    "affiliations": [
+      "San Francisco Estuary Institute",
+      "University of Toronto"
+    ],
+    "citation_count": 20,
+    "openalex_url": "https://openalex.org/W3110837237",
+    "landing_page_url": "https://doi.org/10.1021/acs.est.0c05746",
+    "is_open_access": false,
+    "manual_seed": false,
+    "updated_at": "2026-06-29T21:28:05.915646+00:00"
+  }
+]
