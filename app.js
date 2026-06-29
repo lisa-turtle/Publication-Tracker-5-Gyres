@@ -26,13 +26,37 @@ function renderMetrics(metrics) {
 
 function renderYearChart(byYear) {
   const chart = document.getElementById("yearChart");
-  const rows = Object.entries(byYear).filter(([year]) => year !== "Unknown").sort(([a], [b]) => Number(a) - Number(b));
+
+  const rows = Object.entries(byYear)
+    .filter(([year]) => year !== "Unknown")
+    .sort(([a], [b]) => Number(a) - Number(b));
+
+  if (!rows.length) {
+    chart.innerHTML = "<p>No publications yet. Run the scraper first.</p>";
+    return;
+  }
+
   const max = Math.max(1, ...rows.map(([, count]) => count));
-  chart.innerHTML = rows.map(([year, count]) => `
-    <div class="bar" title="${year}: ${count} publication${count === 1 ? "" : "s"}">
-      <div style="height:${Math.max(4, (count / max) * 180)}px"></div>
-      <span>${year}</span>
-    </div>`).join("") || "<p>No publications yet. Run the scraper first.</p>";
+  const yTicks = Array.from({ length: max + 1 }, (_, i) => i).reverse();
+
+  chart.innerHTML = `
+    <div class="year-chart-with-axis">
+      <div class="y-axis">
+        ${yTicks.map(tick => `<span>${tick}</span>`).join("")}
+      </div>
+
+      <div class="bars">
+        ${rows.map(([year, count]) => `
+          <div class="bar" title="${year}: ${count} publication${count === 1 ? "" : "s"}">
+            <div style="height:${Math.max(4, (count / max) * 180)}px"></div>
+            <span>${year}</span>
+          </div>
+        `).join("")}
+      </div>
+    </div>
+
+    <div class="y-axis-label">Number of publications</div>
+  `;
 }
 
 function renderTable(rows) {
