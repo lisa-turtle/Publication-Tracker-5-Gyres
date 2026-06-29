@@ -27,7 +27,7 @@ jobs:
 
       - name: Run publication scraper
         run: |
-          python scripts/scrape_publications.py
+          python scripts/scrape_openalex.py
 
       - name: Commit updated data
         run: |
