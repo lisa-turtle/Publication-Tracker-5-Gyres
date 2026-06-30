@@ -92,6 +92,29 @@ openalex_types:
   - "book-chapter"
   - "proceedings-article"
 
+  manual_publications:
+  - title: "The Case for a Ban on Microplastics in Personal Care Products"
+    authors:
+      - "R. Doughty"
+      - "M. Eriksen"
+    year: 2014
+    journal: "Tulane Environmental Law Journal"
+    url: "http://www.jstor.org/stable/43294166"
+    citation_count: 41
+    publication_type: "Law Journal"
+    included_in_h_index: true
+
+  - title: "The Plastisphere—The Making of a Plasticized World"
+    authors:
+      - "M. Eriksen"
+    year: 2014
+    journal: "Tulane Environmental Law Journal"
+    url: "http://www.jstor.org/stable/43294161"
+    citation_count: 32
+    publication_type: "Law Journal"
+    included_in_h_index: true
+    
+
 # Contact email is recommended by OpenAlex for polite API usage.
 # Set this to your organizational email before first run.
 mailto: "lisa@5gyres.org"
