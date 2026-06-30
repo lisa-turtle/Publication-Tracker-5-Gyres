@@ -30,12 +30,12 @@
       "Washington Department of Fish and Wildlife",
       "eCoast (New Zealand)"
     ],
-    "citation_count": 4624,
+    "citation_count": 4627,
     "openalex_url": "https://openalex.org/W2130707940",
     "landing_page_url": "https://doi.org/10.1371/journal.pone.0111913",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875709+00:00"
+    "updated_at": "2026-06-30T18:08:58.203315+00:00"
   },
   {
     "id": "https://openalex.org/W3087333805",
@@ -86,12 +86,12 @@
       "University of Toronto",
       "Virginia Tech"
     ],
-    "citation_count": 3016,
+    "citation_count": 3021,
     "openalex_url": "https://openalex.org/W3087333805",
     "landing_page_url": "https://doi.org/10.1126/science.aba3656",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875743+00:00"
+    "updated_at": "2026-06-30T18:08:58.203341+00:00"
   },
   {
     "id": "https://openalex.org/W2150503350",
@@ -121,7 +121,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.10.007",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875491+00:00"
+    "updated_at": "2026-06-30T18:08:58.203149+00:00"
   },
   {
     "id": "https://openalex.org/W2176331526",
@@ -162,7 +162,7 @@
     "landing_page_url": "https://doi.org/10.1088/1748-9326/10/12/124006",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875766+00:00"
+    "updated_at": "2026-06-30T18:08:58.203364+00:00"
   },
   {
     "id": "https://openalex.org/W2103585709",
@@ -191,7 +191,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2014.06.001",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875781+00:00"
+    "updated_at": "2026-06-30T18:08:58.203377+00:00"
   },
   {
     "id": "https://openalex.org/W2007888807",
@@ -276,12 +276,12 @@
       "University of Siena",
       "Washington State University"
     ],
-    "citation_count": 712,
+    "citation_count": 713,
     "openalex_url": "https://openalex.org/W2007888807",
     "landing_page_url": "https://doi.org/10.1016/j.reprotox.2007.07.005",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875838+00:00"
+    "updated_at": "2026-06-30T18:08:58.203425+00:00"
   },
   {
     "id": "https://openalex.org/W2165785532",
@@ -314,7 +314,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2012.12.021",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875860+00:00"
+    "updated_at": "2026-06-30T18:08:58.203441+00:00"
   },
   {
     "id": "https://openalex.org/W2080671154",
@@ -345,7 +345,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.reprotox.2007.05.008",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875874+00:00"
+    "updated_at": "2026-06-30T18:08:58.203455+00:00"
   },
   {
     "id": "https://openalex.org/W2410776720",
@@ -373,7 +373,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2016.05.077",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875505+00:00"
+    "updated_at": "2026-06-30T18:08:58.203162+00:00"
   },
   {
     "id": "https://openalex.org/W4323531449",
@@ -408,12 +408,12 @@
       "University of California, Riverside",
       "Walk Free Foundation"
     ],
-    "citation_count": 398,
+    "citation_count": 399,
     "openalex_url": "https://openalex.org/W4323531449",
     "landing_page_url": "https://doi.org/10.1371/journal.pone.0281596",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875476+00:00"
+    "updated_at": "2026-06-30T18:08:58.203125+00:00"
   },
   {
     "id": "https://openalex.org/W3041758622",
@@ -453,7 +453,7 @@
     "landing_page_url": "https://doi.org/10.1177/0003702820945713",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875537+00:00"
+    "updated_at": "2026-06-30T18:08:58.203180+00:00"
   },
   {
     "id": "https://openalex.org/W1967071586",
@@ -478,7 +478,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.07.054",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875928+00:00"
+    "updated_at": "2026-06-30T18:08:58.203503+00:00"
   },
   {
     "id": "https://openalex.org/W1965858356",
@@ -549,7 +549,7 @@
     "landing_page_url": "https://doi.org/10.3354/esr00623",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875916+00:00"
+    "updated_at": "2026-06-30T18:08:58.203491+00:00"
   },
   {
     "id": "https://openalex.org/W2097196948",
@@ -577,7 +577,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2014.01.058",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875943+00:00"
+    "updated_at": "2026-06-30T18:08:58.203517+00:00"
   },
   {
     "id": "https://openalex.org/W1973411112",
@@ -603,7 +603,7 @@
     "landing_page_url": "https://doi.org/10.1007/s00227-014-2432-8",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875954+00:00"
+    "updated_at": "2026-06-30T18:08:58.203526+00:00"
   },
   {
     "id": "https://openalex.org/W3112962566",
@@ -632,7 +632,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.jhazmat.2020.124770",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875551+00:00"
+    "updated_at": "2026-06-30T18:08:58.203193+00:00"
   },
   {
     "id": "https://openalex.org/W2895466810",
@@ -665,7 +665,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2018.09.031",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875973+00:00"
+    "updated_at": "2026-06-30T18:08:58.203551+00:00"
   },
   {
     "id": "https://openalex.org/W2759784647",
@@ -706,38 +706,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.envpol.2017.09.058",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875594+00:00"
-  },
-  {
-    "id": "https://openalex.org/W2922699723",
-    "doi": "10.1016/j.marpolbul.2019.03.036",
-    "title": "Spatial trends and drivers of marine debris accumulation on shorelines in South Eleuthera, The Bahamas using citizen science",
-    "year": 2019,
-    "publication_date": "2019-03-21",
-    "type": "article",
-    "journal_or_source": "Marine Pollution Bulletin",
-    "authors": [
-      "Kristal K. Ambrose",
-      "Carolynn Box",
-      "James Boxall",
-      "Annabelle Brooks",
-      "Marcus Eriksen",
-      "Joan Fabrés",
-      "Georgios Fylakis",
-      "Tony R. ‎Walker"
-    ],
-    "affiliations": [
-      "Cape Eleuthera Institute",
-      "Dalhousie University",
-      "Grid-Arendal",
-      "Lund University"
-    ],
-    "citation_count": 132,
-    "openalex_url": "https://openalex.org/W2922699723",
-    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2019.03.036",
-    "is_open_access": false,
-    "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875611+00:00"
+    "updated_at": "2026-06-30T18:08:58.203228+00:00"
   },
   {
     "id": "https://openalex.org/W4395069336",
@@ -789,12 +758,43 @@
       "University of Tasmania",
       "University of the Philippines System"
     ],
-    "citation_count": 131,
+    "citation_count": 132,
     "openalex_url": "https://openalex.org/W4395069336",
     "landing_page_url": "https://doi.org/10.1126/sciadv.adj8275",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875428+00:00"
+    "updated_at": "2026-06-30T18:08:58.203080+00:00"
+  },
+  {
+    "id": "https://openalex.org/W2922699723",
+    "doi": "10.1016/j.marpolbul.2019.03.036",
+    "title": "Spatial trends and drivers of marine debris accumulation on shorelines in South Eleuthera, The Bahamas using citizen science",
+    "year": 2019,
+    "publication_date": "2019-03-21",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Kristal K. Ambrose",
+      "Carolynn Box",
+      "James Boxall",
+      "Annabelle Brooks",
+      "Marcus Eriksen",
+      "Joan Fabrés",
+      "Georgios Fylakis",
+      "Tony R. ‎Walker"
+    ],
+    "affiliations": [
+      "Cape Eleuthera Institute",
+      "Dalhousie University",
+      "Grid-Arendal",
+      "Lund University"
+    ],
+    "citation_count": 132,
+    "openalex_url": "https://openalex.org/W2922699723",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2019.03.036",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-06-30T18:08:58.203243+00:00"
   },
   {
     "id": "https://openalex.org/W2428524794",
@@ -823,7 +823,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.jglr.2016.05.009",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875566+00:00"
+    "updated_at": "2026-06-30T18:08:58.203206+00:00"
   },
   {
     "id": "https://openalex.org/W2551655336",
@@ -857,7 +857,7 @@
     "landing_page_url": "https://doi.org/10.1039/c6ay02716d",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876006+00:00"
+    "updated_at": "2026-06-30T18:08:58.203593+00:00"
   },
   {
     "id": "https://openalex.org/W4404137804",
@@ -881,12 +881,12 @@
       "Technical University of Denmark",
       "University of Gothenburg"
     ],
-    "citation_count": 112,
+    "citation_count": 115,
     "openalex_url": "https://openalex.org/W4404137804",
     "landing_page_url": "https://doi.org/10.1016/j.oneear.2024.10.017",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875990+00:00"
+    "updated_at": "2026-06-30T18:08:58.203571+00:00"
   },
   {
     "id": "https://openalex.org/W3161799540",
@@ -923,7 +923,7 @@
     "landing_page_url": "https://doi.org/10.1021/acsestwater.0c00292",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875633+00:00"
+    "updated_at": "2026-06-30T18:08:58.203264+00:00"
   },
   {
     "id": "https://openalex.org/W3093916560",
@@ -949,35 +949,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.jaridenv.2020.104374",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876019+00:00"
-  },
-  {
-    "id": "https://openalex.org/W3016054654",
-    "doi": "10.1016/j.envint.2020.105704",
-    "title": "Mitigation strategies to reverse the rising trend of plastics in Polar Regions",
-    "year": 2020,
-    "publication_date": "2020-04-08",
-    "type": "article",
-    "journal_or_source": "Environment International",
-    "authors": [
-      "Marcus Eriksen",
-      "Franco Borgogno",
-      "Patricia Villarrubia-Gómez",
-      "Emily E. Anderson",
-      "Carolynn Box",
-      "Nicole Trenholm"
-    ],
-    "affiliations": [
-      "University Institute of European Studies",
-      "University of Maryland, Baltimore County",
-      "University of Toronto"
-    ],
-    "citation_count": 49,
-    "openalex_url": "https://openalex.org/W3016054654",
-    "landing_page_url": "https://doi.org/10.1016/j.envint.2020.105704",
-    "is_open_access": true,
-    "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875664+00:00"
+    "updated_at": "2026-06-30T18:08:58.203610+00:00"
   },
   {
     "id": "https://openalex.org/W4388524409",
@@ -1020,12 +992,40 @@
       "University of Plymouth",
       "Özyeğin University"
     ],
-    "citation_count": 48,
+    "citation_count": 49,
     "openalex_url": "https://openalex.org/W4388524409",
     "landing_page_url": "https://doi.org/10.1016/j.oneear.2023.10.022",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876186+00:00"
+    "updated_at": "2026-06-30T18:08:58.203768+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3016054654",
+    "doi": "10.1016/j.envint.2020.105704",
+    "title": "Mitigation strategies to reverse the rising trend of plastics in Polar Regions",
+    "year": 2020,
+    "publication_date": "2020-04-08",
+    "type": "article",
+    "journal_or_source": "Environment International",
+    "authors": [
+      "Marcus Eriksen",
+      "Franco Borgogno",
+      "Patricia Villarrubia-Gómez",
+      "Emily E. Anderson",
+      "Carolynn Box",
+      "Nicole Trenholm"
+    ],
+    "affiliations": [
+      "University Institute of European Studies",
+      "University of Maryland, Baltimore County",
+      "University of Toronto"
+    ],
+    "citation_count": 49,
+    "openalex_url": "https://openalex.org/W3016054654",
+    "landing_page_url": "https://doi.org/10.1016/j.envint.2020.105704",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-06-30T18:08:58.203275+00:00"
   },
   {
     "id": "https://openalex.org/W4386209796",
@@ -1064,12 +1064,12 @@
       "University of Toronto",
       "Vrije Universiteit Amsterdam"
     ],
-    "citation_count": 44,
+    "citation_count": 45,
     "openalex_url": "https://openalex.org/W4386209796",
     "landing_page_url": "https://doi.org/10.1021/acs.est.3c01885",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876163+00:00"
+    "updated_at": "2026-06-30T18:08:58.203748+00:00"
   },
   {
     "id": "https://openalex.org/W3092668871",
@@ -1108,7 +1108,46 @@
     "landing_page_url": "https://doi.org/10.1002/aqc.3453",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876136+00:00"
+    "updated_at": "2026-06-30T18:08:58.203728+00:00"
+  },
+  {
+    "id": "http://www.jstor.org/stable/43294166",
+    "doi": null,
+    "title": "The Case for a Ban on Microplastics in Personal Care Products",
+    "year": 2014,
+    "publication_date": null,
+    "type": "Law Journal",
+    "journal_or_source": "Tulane Environmental Law Journal",
+    "authors": [
+      "R. Doughty",
+      "M. Eriksen"
+    ],
+    "affiliations": [],
+    "citation_count": 41,
+    "openalex_url": null,
+    "landing_page_url": "http://www.jstor.org/stable/43294166",
+    "is_open_access": null,
+    "manual_seed": true,
+    "updated_at": "2026-06-30T18:08:58.373130+00:00"
+  },
+  {
+    "id": "http://www.jstor.org/stable/43294161",
+    "doi": null,
+    "title": "The Plastisphere—The Making of a Plasticized World",
+    "year": 2014,
+    "publication_date": null,
+    "type": "Law Journal",
+    "journal_or_source": "Tulane Environmental Law Journal",
+    "authors": [
+      "M. Eriksen"
+    ],
+    "affiliations": [],
+    "citation_count": 32,
+    "openalex_url": null,
+    "landing_page_url": "http://www.jstor.org/stable/43294161",
+    "is_open_access": null,
+    "manual_seed": true,
+    "updated_at": "2026-06-30T18:08:58.373150+00:00"
   },
   {
     "id": "https://openalex.org/W4388758906",
@@ -1137,7 +1176,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.oneear.2023.10.017",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876035+00:00"
+    "updated_at": "2026-06-30T18:08:58.203630+00:00"
   },
   {
     "id": "https://openalex.org/W3195367486",
@@ -1210,7 +1249,7 @@
     "landing_page_url": "https://doi.org/10.5985/emcr.20210002",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876114+00:00"
+    "updated_at": "2026-06-30T18:08:58.203708+00:00"
   },
   {
     "id": "https://openalex.org/W4383224299",
@@ -1239,7 +1278,7 @@
     "landing_page_url": "https://doi.org/10.3389/fbuil.2023.1206474",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875445+00:00"
+    "updated_at": "2026-06-30T18:08:58.203097+00:00"
   },
   {
     "id": "https://openalex.org/W3110837237",
@@ -1266,7 +1305,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.est.0c05746",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875677+00:00"
+    "updated_at": "2026-06-30T18:08:58.203286+00:00"
   },
   {
     "id": "https://openalex.org/W4382602825",
@@ -1288,7 +1327,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2023.115198",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875456+00:00"
+    "updated_at": "2026-06-30T18:08:58.203107+00:00"
   },
   {
     "id": "https://openalex.org/W3124624966",
@@ -1315,7 +1354,7 @@
     "landing_page_url": "https://doi.org/10.1002/aqc.3479",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876048+00:00"
+    "updated_at": "2026-06-30T18:08:58.203647+00:00"
   },
   {
     "id": "https://openalex.org/W4200173985",
@@ -1341,7 +1380,7 @@
     "landing_page_url": "https://doi.org/10.1088/1755-1315/925/1/012043",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875691+00:00"
+    "updated_at": "2026-06-30T18:08:58.203300+00:00"
   },
   {
     "id": "https://openalex.org/W4410602509",
@@ -1365,7 +1404,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118156",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876208+00:00"
+    "updated_at": "2026-06-30T18:08:58.203787+00:00"
   },
   {
     "id": "https://openalex.org/W4412720576",
@@ -1393,7 +1432,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118508",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875112+00:00"
+    "updated_at": "2026-06-30T18:08:58.202807+00:00"
   },
   {
     "id": "https://openalex.org/W4312263970",
@@ -1421,7 +1460,7 @@
     "landing_page_url": "https://doi.org/10.2139/ssrn.4254033",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876075+00:00"
+    "updated_at": "2026-06-30T18:08:58.203672+00:00"
   },
   {
     "id": "https://openalex.org/W4409393883",
@@ -1451,7 +1490,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf093",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875129+00:00"
+    "updated_at": "2026-06-30T18:08:58.202821+00:00"
   },
   {
     "id": "https://openalex.org/W3184087096",
@@ -1478,7 +1517,7 @@
     "landing_page_url": "https://doi.org/10.5958/2277-8934.2021.00008.4",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876062+00:00"
+    "updated_at": "2026-06-30T18:08:58.203660+00:00"
   },
   {
     "id": "https://openalex.org/W4417535166",
@@ -1503,7 +1542,7 @@
     "landing_page_url": "https://doi.org/10.1007/s11356-025-37295-2",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876196+00:00"
+    "updated_at": "2026-06-30T18:08:58.203778+00:00"
   },
   {
     "id": "https://openalex.org/W7125862476",
@@ -1530,7 +1569,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf299",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875012+00:00"
+    "updated_at": "2026-06-30T18:08:58.202713+00:00"
   },
   {
     "id": "https://openalex.org/W4417102096",
@@ -1571,7 +1610,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.estlett.5c00790",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875060+00:00"
+    "updated_at": "2026-06-30T18:08:58.202755+00:00"
   },
   {
     "id": "https://openalex.org/W4415614905",
@@ -1603,7 +1642,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf260",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875082+00:00"
+    "updated_at": "2026-06-30T18:08:58.202775+00:00"
   },
   {
     "id": "https://openalex.org/W4415638434",
@@ -1629,7 +1668,7 @@
     "landing_page_url": "https://doi.org/10.1088/2515-7620/ae188d",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.875096+00:00"
+    "updated_at": "2026-06-30T18:08:58.202793+00:00"
   },
   {
     "id": "https://openalex.org/W4413137941",
@@ -1664,6 +1703,6 @@
     "landing_page_url": "https://doi.org/10.1016/j.wasman.2025.115063",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-06-30T01:02:10.876226+00:00"
+    "updated_at": "2026-06-30T18:08:58.203802+00:00"
   }
 ]
