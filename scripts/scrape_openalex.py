@@ -225,7 +225,26 @@ def main() -> None:
                 continue
 
         simplified.append(simplify_work(work, manual=manual))
-
+    
+    for pub in config.get("manual_publications", []) or []:
+          simplified.append({
+              "id": pub.get("url"),
+              "doi": None,
+              "title": pub.get("title"),
+              "year": pub.get("year"),
+              "publication_date": None,
+              "type": pub.get("publication_type", "Manual Publication"),
+              "journal_or_source": pub.get("journal"),
+              "authors": pub.get("authors", []),
+              "affiliations": [],
+              "citation_count": int(pub.get("citation_count") or 0),
+              "openalex_url": None,
+              "landing_page_url": pub.get("url"),
+              "is_open_access": None,
+              "manual_seed": True,
+              "updated_at": datetime.now(timezone.utc).isoformat(),
+          })
+  
     simplified.sort(
         key=lambda p: (p.get("citation_count") or 0, p.get("year") or 0),
         reverse=True
