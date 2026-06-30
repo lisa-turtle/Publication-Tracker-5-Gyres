@@ -92,7 +92,7 @@ openalex_types:
   - "book-chapter"
   - "proceedings-article"
 
-  manual_publications:
+manual_publications:
   - title: "The Case for a Ban on Microplastics in Personal Care Products"
     authors:
       - "R. Doughty"
