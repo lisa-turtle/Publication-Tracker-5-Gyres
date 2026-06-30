@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-29T22:39:46.719411+00:00",
-  "publication_count": 38,
-  "total_citations": 18176,
-  "h_index": 26,
+  "updated_at": "2026-06-30T01:02:11.075441+00:00",
+  "publication_count": 47,
+  "total_citations": 18347,
+  "h_index": 29,
   "publications_by_year": {
     "2007": 2,
     "2013": 3,
@@ -12,11 +12,12 @@
     "2017": 1,
     "2018": 1,
     "2019": 1,
-    "2020": 6,
-    "2021": 3,
-    "2023": 4,
+    "2020": 7,
+    "2021": 5,
+    "2022": 1,
+    "2023": 6,
     "2024": 2,
-    "2025": 5,
+    "2025": 8,
     "2026": 1
   },
   "citation_source": "OpenAlex cited_by_count"
