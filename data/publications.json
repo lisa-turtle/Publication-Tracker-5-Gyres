@@ -36,7 +36,7 @@
     "landing_page_url": "https://doi.org/10.1371/journal.pone.0111913",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379545+00:00"
+    "updated_at": "2026-09-21T11:13:19.793755+00:00"
   },
   {
     "id": "https://openalex.org/W3087333805",
@@ -87,12 +87,12 @@
       "University of Toronto",
       "Virginia Tech"
     ],
-    "citation_count": 3179,
+    "citation_count": 3192,
     "openalex_url": "https://openalex.org/W3087333805",
     "landing_page_url": "https://doi.org/10.1126/science.aba3656",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379582+00:00"
+    "updated_at": "2026-09-21T11:13:19.793782+00:00"
   },
   {
     "id": "https://openalex.org/W2150503350",
@@ -117,12 +117,12 @@
       "SUNY Fredonia",
       "York University"
     ],
-    "citation_count": 1861,
+    "citation_count": 1864,
     "openalex_url": "https://openalex.org/W2150503350",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.10.007",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379325+00:00"
+    "updated_at": "2026-09-21T11:13:19.793582+00:00"
   },
   {
     "id": "https://openalex.org/W2176331526",
@@ -158,12 +158,12 @@
       "University of Hawaiʻi at Mānoa",
       "Wageningen University & Research"
     ],
-    "citation_count": 1729,
+    "citation_count": 1735,
     "openalex_url": "https://openalex.org/W2176331526",
     "landing_page_url": "https://doi.org/10.1088/1748-9326/10/12/124006",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379607+00:00"
+    "updated_at": "2026-09-21T11:13:19.793802+00:00"
   },
   {
     "id": "https://openalex.org/W2103585709",
@@ -187,12 +187,12 @@
       "SUNY Fredonia",
       "York University"
     ],
-    "citation_count": 1476,
+    "citation_count": 1478,
     "openalex_url": "https://openalex.org/W2103585709",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2014.06.001",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379624+00:00"
+    "updated_at": "2026-09-21T11:13:19.793815+00:00"
   },
   {
     "id": "https://openalex.org/W2007888807",
@@ -285,12 +285,12 @@
       "University of Virginia Health System",
       "Washington State University"
     ],
-    "citation_count": 715,
+    "citation_count": 717,
     "openalex_url": "https://openalex.org/W2007888807",
     "landing_page_url": "https://doi.org/10.1016/j.reprotox.2007.07.005",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379690+00:00"
+    "updated_at": "2026-09-21T11:13:19.793869+00:00"
   },
   {
     "id": "https://openalex.org/W2165785532",
@@ -318,12 +318,12 @@
       "University of Hawaii System",
       "University of Hawaiʻi at Mānoa"
     ],
-    "citation_count": 598,
+    "citation_count": 601,
     "openalex_url": "https://openalex.org/W2165785532",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2012.12.021",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379712+00:00"
+    "updated_at": "2026-09-21T11:13:19.793885+00:00"
   },
   {
     "id": "https://openalex.org/W2080671154",
@@ -349,12 +349,12 @@
       "University of Connecticut",
       "University of Florida"
     ],
-    "citation_count": 542,
+    "citation_count": 543,
     "openalex_url": "https://openalex.org/W2080671154",
     "landing_page_url": "https://doi.org/10.1016/j.reprotox.2007.05.008",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379727+00:00"
+    "updated_at": "2026-09-21T11:13:19.793898+00:00"
   },
   {
     "id": "https://openalex.org/W2410776720",
@@ -377,12 +377,12 @@
       "SUNY Fredonia",
       "San Francisco Estuary Institute"
     ],
-    "citation_count": 436,
+    "citation_count": 437,
     "openalex_url": "https://openalex.org/W2410776720",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2016.05.077",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379343+00:00"
+    "updated_at": "2026-09-21T11:13:19.793595+00:00"
   },
   {
     "id": "https://openalex.org/W4323531449",
@@ -422,7 +422,7 @@
     "landing_page_url": "https://doi.org/10.1371/journal.pone.0281596",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379309+00:00"
+    "updated_at": "2026-09-21T11:13:19.793569+00:00"
   },
   {
     "id": "https://openalex.org/W3041758622",
@@ -457,12 +457,12 @@
       "San Francisco Estuary Institute",
       "University of Toronto"
     ],
-    "citation_count": 379,
+    "citation_count": 381,
     "openalex_url": "https://openalex.org/W3041758622",
     "landing_page_url": "https://doi.org/10.1177/0003702820945713",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379369+00:00"
+    "updated_at": "2026-09-21T11:13:19.793613+00:00"
   },
   {
     "id": "https://openalex.org/W1967071586",
@@ -482,12 +482,12 @@
       "University of Bergen",
       "University of Hawaii at Hilo"
     ],
-    "citation_count": 348,
+    "citation_count": 349,
     "openalex_url": "https://openalex.org/W1967071586",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.07.054",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379795+00:00"
+    "updated_at": "2026-09-21T11:13:19.793952+00:00"
   },
   {
     "id": "https://openalex.org/W1965858356",
@@ -554,7 +554,7 @@
     "landing_page_url": "https://doi.org/10.3354/esr00623",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379781+00:00"
+    "updated_at": "2026-09-21T11:13:19.793941+00:00"
   },
   {
     "id": "https://openalex.org/W2097196948",
@@ -577,12 +577,12 @@
       "San Diego State University",
       "University of California, Davis"
     ],
-    "citation_count": 250,
+    "citation_count": 252,
     "openalex_url": "https://openalex.org/W2097196948",
     "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2014.01.058",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379810+00:00"
+    "updated_at": "2026-09-21T11:13:19.793966+00:00"
   },
   {
     "id": "https://openalex.org/W1973411112",
@@ -608,7 +608,7 @@
     "landing_page_url": "https://doi.org/10.1007/s00227-014-2432-8",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379822+00:00"
+    "updated_at": "2026-09-21T11:13:19.793977+00:00"
   },
   {
     "id": "https://openalex.org/W3112962566",
@@ -632,12 +632,12 @@
       "University of California, Davis",
       "University of Toronto"
     ],
-    "citation_count": 193,
+    "citation_count": 194,
     "openalex_url": "https://openalex.org/W3112962566",
     "landing_page_url": "https://doi.org/10.1016/j.jhazmat.2020.124770",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379385+00:00"
+    "updated_at": "2026-09-21T11:13:19.793627+00:00"
   },
   {
     "id": "https://openalex.org/W2895466810",
@@ -665,12 +665,12 @@
       "University of French Polynesia",
       "University of Waikato"
     ],
-    "citation_count": 180,
+    "citation_count": 181,
     "openalex_url": "https://openalex.org/W2895466810",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2018.09.031",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379843+00:00"
+    "updated_at": "2026-09-21T11:13:19.793993+00:00"
   },
   {
     "id": "https://openalex.org/W4395069336",
@@ -722,12 +722,12 @@
       "University of Tasmania",
       "University of the Philippines System"
     ],
-    "citation_count": 151,
+    "citation_count": 153,
     "openalex_url": "https://openalex.org/W4395069336",
     "landing_page_url": "https://doi.org/10.1126/sciadv.adj8275",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379259+00:00"
+    "updated_at": "2026-09-21T11:13:19.793521+00:00"
   },
   {
     "id": "https://openalex.org/W2759784647",
@@ -768,7 +768,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.envpol.2017.09.058",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379440+00:00"
+    "updated_at": "2026-09-21T11:13:19.793666+00:00"
   },
   {
     "id": "https://openalex.org/W2922699723",
@@ -799,7 +799,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2019.03.036",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379459+00:00"
+    "updated_at": "2026-09-21T11:13:19.793683+00:00"
   },
   {
     "id": "https://openalex.org/W4404137804",
@@ -823,12 +823,12 @@
       "Technical University of Denmark",
       "University of Gothenburg"
     ],
-    "citation_count": 131,
+    "citation_count": 133,
     "openalex_url": "https://openalex.org/W4404137804",
     "landing_page_url": "https://doi.org/10.1016/j.oneear.2024.10.017",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379859+00:00"
+    "updated_at": "2026-09-21T11:13:19.794006+00:00"
   },
   {
     "id": "https://openalex.org/W2428524794",
@@ -857,7 +857,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.jglr.2016.05.009",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379402+00:00"
+    "updated_at": "2026-09-21T11:13:19.793642+00:00"
   },
   {
     "id": "https://openalex.org/W2551655336",
@@ -891,7 +891,7 @@
     "landing_page_url": "https://doi.org/10.1039/c6ay02716d",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379875+00:00"
+    "updated_at": "2026-09-21T11:13:19.794023+00:00"
   },
   {
     "id": "https://openalex.org/W3161799540",
@@ -923,38 +923,12 @@
       "University of California, Davis",
       "University of Toronto"
     ],
-    "citation_count": 70,
+    "citation_count": 71,
     "openalex_url": "https://openalex.org/W3161799540",
     "landing_page_url": "https://doi.org/10.1021/acsestwater.0c00292",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379483+00:00"
-  },
-  {
-    "id": "https://openalex.org/W3093916560",
-    "doi": "10.1016/j.jaridenv.2020.104374",
-    "title": "The plight of camels eating plastic waste",
-    "year": 2020,
-    "publication_date": "2020-10-23",
-    "type": "article",
-    "journal_or_source": "Journal of Arid Environments",
-    "authors": [
-      "Marcus Eriksen",
-      "Amy Lusher",
-      "Mia Nixon",
-      "U. Wernery"
-    ],
-    "affiliations": [
-      "Central Veterinary Research Laboratory",
-      "Learning Through an Expanded Arts Program",
-      "Norwegian Institute for Water Research"
-    ],
-    "citation_count": 54,
-    "openalex_url": "https://openalex.org/W3093916560",
-    "landing_page_url": "https://doi.org/10.1016/j.jaridenv.2020.104374",
-    "is_open_access": true,
-    "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379888+00:00"
+    "updated_at": "2026-09-21T11:13:19.793703+00:00"
   },
   {
     "id": "https://openalex.org/W4388524409",
@@ -997,12 +971,38 @@
       "University of Plymouth",
       "Özyeğin University"
     ],
-    "citation_count": 53,
+    "citation_count": 54,
     "openalex_url": "https://openalex.org/W4388524409",
     "landing_page_url": "https://doi.org/10.1016/j.oneear.2023.10.022",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.380065+00:00"
+    "updated_at": "2026-09-21T11:13:19.794181+00:00"
+  },
+  {
+    "id": "https://openalex.org/W3093916560",
+    "doi": "10.1016/j.jaridenv.2020.104374",
+    "title": "The plight of camels eating plastic waste",
+    "year": 2020,
+    "publication_date": "2020-10-23",
+    "type": "article",
+    "journal_or_source": "Journal of Arid Environments",
+    "authors": [
+      "Marcus Eriksen",
+      "Amy Lusher",
+      "Mia Nixon",
+      "U. Wernery"
+    ],
+    "affiliations": [
+      "Central Veterinary Research Laboratory",
+      "Learning Through an Expanded Arts Program",
+      "Norwegian Institute for Water Research"
+    ],
+    "citation_count": 54,
+    "openalex_url": "https://openalex.org/W3093916560",
+    "landing_page_url": "https://doi.org/10.1016/j.jaridenv.2020.104374",
+    "is_open_access": true,
+    "manual_seed": true,
+    "updated_at": "2026-09-21T11:13:19.794033+00:00"
   },
   {
     "id": "https://openalex.org/W3016054654",
@@ -1027,12 +1027,12 @@
       "University of Maryland, Baltimore County",
       "University of Toronto"
     ],
-    "citation_count": 51,
+    "citation_count": 52,
     "openalex_url": "https://openalex.org/W3016054654",
     "landing_page_url": "https://doi.org/10.1016/j.envint.2020.105704",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379500+00:00"
+    "updated_at": "2026-09-21T11:13:19.793718+00:00"
   },
   {
     "id": "https://openalex.org/W4386209796",
@@ -1076,7 +1076,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.est.3c01885",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.380041+00:00"
+    "updated_at": "2026-09-21T11:13:19.794160+00:00"
   },
   {
     "id": "https://openalex.org/W3092668871",
@@ -1115,7 +1115,7 @@
     "landing_page_url": "https://doi.org/10.1002/aqc.3453",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.380016+00:00"
+    "updated_at": "2026-09-21T11:13:19.794139+00:00"
   },
   {
     "id": "http://www.jstor.org/stable/43294166",
@@ -1135,7 +1135,7 @@
     "landing_page_url": "http://www.jstor.org/stable/43294166",
     "is_open_access": null,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.569603+00:00"
+    "updated_at": "2026-09-21T11:13:19.971741+00:00"
   },
   {
     "id": "http://www.jstor.org/stable/43294161",
@@ -1154,7 +1154,7 @@
     "landing_page_url": "http://www.jstor.org/stable/43294161",
     "is_open_access": null,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.569629+00:00"
+    "updated_at": "2026-09-21T11:13:19.971764+00:00"
   },
   {
     "id": "https://openalex.org/W4388758906",
@@ -1183,7 +1183,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.oneear.2023.10.017",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379903+00:00"
+    "updated_at": "2026-09-21T11:13:19.794046+00:00"
   },
   {
     "id": "https://openalex.org/W3195367486",
@@ -1256,7 +1256,7 @@
     "landing_page_url": "https://doi.org/10.5985/emcr.20210002",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379991+00:00"
+    "updated_at": "2026-09-21T11:13:19.794120+00:00"
   },
   {
     "id": "https://openalex.org/W4383224299",
@@ -1285,7 +1285,29 @@
     "landing_page_url": "https://doi.org/10.3389/fbuil.2023.1206474",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379276+00:00"
+    "updated_at": "2026-09-21T11:13:19.793536+00:00"
+  },
+  {
+    "id": "https://openalex.org/W4382602825",
+    "doi": "10.1016/j.marpolbul.2023.115198",
+    "title": "Monitor compartments, mitigate sectors: A framework to deconstruct the complexity of plastic pollution",
+    "year": 2023,
+    "publication_date": "2023-06-29",
+    "type": "article",
+    "journal_or_source": "Marine Pollution Bulletin",
+    "authors": [
+      "Lisa M. Erdle",
+      "Marcus Eriksen"
+    ],
+    "affiliations": [
+      "AmeriCares"
+    ],
+    "citation_count": 20,
+    "openalex_url": "https://openalex.org/W4382602825",
+    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2023.115198",
+    "is_open_access": false,
+    "manual_seed": true,
+    "updated_at": "2026-09-21T11:13:19.793552+00:00"
   },
   {
     "id": "https://openalex.org/W3110837237",
@@ -1312,29 +1334,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.est.0c05746",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379513+00:00"
-  },
-  {
-    "id": "https://openalex.org/W4382602825",
-    "doi": "10.1016/j.marpolbul.2023.115198",
-    "title": "Monitor compartments, mitigate sectors: A framework to deconstruct the complexity of plastic pollution",
-    "year": 2023,
-    "publication_date": "2023-06-29",
-    "type": "article",
-    "journal_or_source": "Marine Pollution Bulletin",
-    "authors": [
-      "Lisa M. Erdle",
-      "Marcus Eriksen"
-    ],
-    "affiliations": [
-      "AmeriCares"
-    ],
-    "citation_count": 19,
-    "openalex_url": "https://openalex.org/W4382602825",
-    "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2023.115198",
-    "is_open_access": false,
-    "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379287+00:00"
+    "updated_at": "2026-09-21T11:13:19.793728+00:00"
   },
   {
     "id": "https://openalex.org/W3124624966",
@@ -1361,7 +1361,7 @@
     "landing_page_url": "https://doi.org/10.1002/aqc.3479",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379918+00:00"
+    "updated_at": "2026-09-21T11:13:19.794059+00:00"
   },
   {
     "id": "https://openalex.org/W4200173985",
@@ -1387,7 +1387,7 @@
     "landing_page_url": "https://doi.org/10.1088/1755-1315/925/1/012043",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379526+00:00"
+    "updated_at": "2026-09-21T11:13:19.793740+00:00"
   },
   {
     "id": "https://openalex.org/W4410602509",
@@ -1411,7 +1411,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118156",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.380087+00:00"
+    "updated_at": "2026-09-21T11:13:19.794201+00:00"
   },
   {
     "id": "https://openalex.org/W4412720576",
@@ -1439,7 +1439,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118508",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.378982+00:00"
+    "updated_at": "2026-09-21T11:13:19.793206+00:00"
   },
   {
     "id": "https://openalex.org/W4312263970",
@@ -1468,7 +1468,7 @@
     "landing_page_url": "https://doi.org/10.2139/ssrn.4254033",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379949+00:00"
+    "updated_at": "2026-09-21T11:13:19.794087+00:00"
   },
   {
     "id": "https://openalex.org/W4409393883",
@@ -1498,7 +1498,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf093",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.378998+00:00"
+    "updated_at": "2026-09-21T11:13:19.793252+00:00"
   },
   {
     "id": "https://openalex.org/W3184087096",
@@ -1525,7 +1525,7 @@
     "landing_page_url": "https://doi.org/10.5958/2277-8934.2021.00008.4",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.379933+00:00"
+    "updated_at": "2026-09-21T11:13:19.794073+00:00"
   },
   {
     "id": "https://openalex.org/W4417102096",
@@ -1566,7 +1566,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.estlett.5c00790",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.378928+00:00"
+    "updated_at": "2026-09-21T11:13:19.793160+00:00"
   },
   {
     "id": "https://openalex.org/W4415614905",
@@ -1598,7 +1598,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf260",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.378950+00:00"
+    "updated_at": "2026-09-21T11:13:19.793180+00:00"
   },
   {
     "id": "https://openalex.org/W4415638434",
@@ -1624,7 +1624,7 @@
     "landing_page_url": "https://doi.org/10.1088/2515-7620/ae188d",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.378966+00:00"
+    "updated_at": "2026-09-21T11:13:19.793192+00:00"
   },
   {
     "id": "https://openalex.org/W4417535166",
@@ -1649,7 +1649,7 @@
     "landing_page_url": "https://doi.org/10.1007/s11356-025-37295-2",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.380076+00:00"
+    "updated_at": "2026-09-21T11:13:19.794191+00:00"
   },
   {
     "id": "https://openalex.org/W7125862476",
@@ -1676,7 +1676,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf299",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.378874+00:00"
+    "updated_at": "2026-09-21T11:13:19.793117+00:00"
   },
   {
     "id": "https://openalex.org/W4413137941",
@@ -1711,6 +1711,6 @@
     "landing_page_url": "https://doi.org/10.1016/j.wasman.2025.115063",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-14T11:03:40.380105+00:00"
+    "updated_at": "2026-09-21T11:13:19.794233+00:00"
   }
 ]
