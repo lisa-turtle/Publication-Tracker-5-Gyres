@@ -12,18 +12,16 @@
       "Laurent Lebreton",
       "Henry S. Carson",
       "Martín Thiel",
-      "Charles J. Moore",
+      "Charles James Moore",
       "Jose C. Borerro",
       "François Galgani",
       "Peter G. Ryan",
       "Júlia Reisser"
     ],
     "affiliations": [
-      "Centro de Estudios Científicos",
+      "FitzPatrick Institute of African Ornithology",
       "Ifremer",
-      "Institut Français de la Mer",
-      "Southern California Institute for Research and Education",
-      "Statistics New Zealand",
+      "Oceans Institute",
       "The University of Western Australia",
       "Universidad Católica del Norte",
       "University of Cape Town",
@@ -31,12 +29,12 @@
       "Washington Department of Fish and Wildlife",
       "eCoast (New Zealand)"
     ],
-    "citation_count": 4704,
+    "citation_count": 4765,
     "openalex_url": "https://openalex.org/W2130707940",
     "landing_page_url": "https://doi.org/10.1371/journal.pone.0111913",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793755+00:00"
+    "updated_at": "2026-10-05T12:48:20.584948+00:00"
   },
   {
     "id": "https://openalex.org/W3087333805",
@@ -48,7 +46,7 @@
     "journal_or_source": "Science",
     "authors": [
       "Stephanie B. Borrelle",
-      "Jeremy Ringma",
+      "Jeremy L. Ringma",
       "Kara Lavender Law",
       "Cole C. Monnahan",
       "Laurent Lebreton",
@@ -63,16 +61,15 @@
       "Leah R. Gerber",
       "Beth Polidoro",
       "Akbar Tahir",
-      "Miranda Bernard",
+      "Miranda L. Bernard",
       "Nicholas J. Mallos",
-      "Megan Barnes",
+      "Megan D. Barnes",
       "Chelsea M. Rochman"
     ],
     "affiliations": [
       "Arizona State University",
       "Hasanuddin University",
-      "Maricopa Community Colleges - Glendale Community College",
-      "NOAA National Marine Fisheries Service Northwest Fisheries Science Center",
+      "NOAA National Marine Fisheries Service Alaska Fisheries Science Center",
       "National Oceanic and Atmospheric Administration",
       "Ocean Conservancy",
       "Sea Education Association",
@@ -87,12 +84,12 @@
       "University of Toronto",
       "Virginia Tech"
     ],
-    "citation_count": 3192,
+    "citation_count": 3237,
     "openalex_url": "https://openalex.org/W3087333805",
     "landing_page_url": "https://doi.org/10.1126/science.aba3656",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793782+00:00"
+    "updated_at": "2026-10-05T12:48:20.584980+00:00"
   },
   {
     "id": "https://openalex.org/W2150503350",
@@ -115,14 +112,14 @@
     "affiliations": [
       "Niagara University",
       "SUNY Fredonia",
-      "York University"
+      "University of California, Los Angeles"
     ],
-    "citation_count": 1864,
+    "citation_count": 1873,
     "openalex_url": "https://openalex.org/W2150503350",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.10.007",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793582+00:00"
+    "updated_at": "2026-10-05T12:48:20.584772+00:00"
   },
   {
     "id": "https://openalex.org/W2176331526",
@@ -147,23 +144,21 @@
     "affiliations": [
       "ARC Centre of Excellence for Climate System Science",
       "CSIRO Oceans and Atmosphere",
-      "Grantham College",
+      "Climate Change Research Centre",
       "Ifremer",
       "Imperial College London",
       "Sea Education Association",
-      "Statistics New Zealand",
       "UNSW Sydney",
       "University of California, Santa Barbara",
-      "University of Hawaii System",
       "University of Hawaiʻi at Mānoa",
-      "Wageningen University & Research"
+      "Wageningen Marine Research"
     ],
-    "citation_count": 1735,
+    "citation_count": 1751,
     "openalex_url": "https://openalex.org/W2176331526",
     "landing_page_url": "https://doi.org/10.1088/1748-9326/10/12/124006",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793802+00:00"
+    "updated_at": "2026-10-05T12:48:20.585003+00:00"
   },
   {
     "id": "https://openalex.org/W2103585709",
@@ -178,21 +173,22 @@
       "Olaf P. Jensen",
       "Sherri A. Mason",
       "Marcus Eriksen",
-      "N. Williamson",
+      "Nicholas John Williamson",
       "Bazartseren Boldgiv"
     ],
     "affiliations": [
       "National University of Mongolia",
       "Rutgers, The State University of New Jersey",
       "SUNY Fredonia",
-      "York University"
+      "State University of New York",
+      "University of California, Los Angeles"
     ],
-    "citation_count": 1478,
+    "citation_count": 1481,
     "openalex_url": "https://openalex.org/W2103585709",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2014.06.001",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793815+00:00"
+    "updated_at": "2026-10-05T12:48:20.585017+00:00"
   },
   {
     "id": "https://openalex.org/W2007888807",
@@ -211,7 +207,7 @@
       "Marcus Eriksen",
       "Francesca Farabollini",
       "Louis J. Guillette",
-      "Russ Hauser",
+      "Russ B. Hauser",
       "Jerrold J. Heindel",
       "Shuk‐Mei Ho",
       "Patricia A. Hunt",
@@ -236,7 +232,7 @@
       "Chris E. Talsness",
       "John G. Vandenbergh",
       "Laura N. Vandenberg",
-      "Debby Walser-Kuntz",
+      "Debby R. Walser-Kuntz",
       "Cheryl S. Watson",
       "Wade V. Welshons",
       "Yelena B. Wetherill",
@@ -247,50 +243,38 @@
       "Brunel University of London",
       "Carleton College",
       "Case Western Reserve University",
-      "Center for Environmental Health",
+      "Centro de Investigación Biomédica en Red de Epidemiología y Salud Pública",
       "Charité - Universitätsmedizin Berlin",
-      "Charlottesville Medical Research",
-      "Complejo Hospitalario Universitario de Granada",
       "Emory University",
       "Environmental Protection Agency",
-      "Franklin University",
       "Harvard University",
-      "Harvard University Press",
-      "Instituto de Investigación Biosanitaria de Granada",
-      "Marine Research Foundation",
       "Maryville College",
-      "Massachusetts Department of Public Health",
       "National Institute of Environmental Health Sciences",
       "National Institute of Health Sciences",
       "National Institutes of Health",
       "National Institutes of Natural Sciences",
       "North Carolina State University",
-      "Pacific Island Ecosystems Research Center",
-      "Research Triangle Park Foundation",
+      "Okazaki Institute for Integrative Bioscience",
       "The University of Texas Medical Branch at Galveston",
       "Tufts University",
-      "Tulane University",
       "United States Geological Survey",
       "Universidad de Granada",
       "Universitat de Miguel Hernández d'Elx",
-      "University School",
       "University of Cincinnati",
-      "University of Cincinnati Medical Center",
       "University of Connecticut",
       "University of Florida",
       "University of Illinois Chicago",
       "University of Massachusetts Amherst",
       "University of Missouri",
       "University of Siena",
-      "University of Virginia Health System",
       "Washington State University"
     ],
-    "citation_count": 717,
+    "citation_count": 716,
     "openalex_url": "https://openalex.org/W2007888807",
     "landing_page_url": "https://doi.org/10.1016/j.reprotox.2007.07.005",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793869+00:00"
+    "updated_at": "2026-10-05T12:48:20.585239+00:00"
   },
   {
     "id": "https://openalex.org/W2165785532",
@@ -312,18 +296,17 @@
       "Samuel Rifman"
     ],
     "affiliations": [
-      "Pacific International Center for High Technology Research",
-      "Spaulding Hospital",
       "Universidad Católica del Norte",
+      "University of California, Los Angeles",
       "University of Hawaii System",
       "University of Hawaiʻi at Mānoa"
     ],
-    "citation_count": 601,
+    "citation_count": 608,
     "openalex_url": "https://openalex.org/W2165785532",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2012.12.021",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793885+00:00"
+    "updated_at": "2026-10-05T12:48:20.585259+00:00"
   },
   {
     "id": "https://openalex.org/W2080671154",
@@ -345,16 +328,17 @@
     "affiliations": [
       "Brunel University of London",
       "Maryville College",
+      "National Institutes of Natural Sciences",
       "North Carolina State University",
       "University of Connecticut",
       "University of Florida"
     ],
-    "citation_count": 543,
+    "citation_count": 545,
     "openalex_url": "https://openalex.org/W2080671154",
     "landing_page_url": "https://doi.org/10.1016/j.reprotox.2007.05.008",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793898+00:00"
+    "updated_at": "2026-10-05T12:48:20.585272+00:00"
   },
   {
     "id": "https://openalex.org/W2410776720",
@@ -369,20 +353,19 @@
       "Sherri A. Mason",
       "Shavonne K. Stanek",
       "Ellen Willis‐Norton",
-      "Ian Wren",
+      "Ian F. Wren",
       "Carolynn Box"
     ],
     "affiliations": [
-      "Riverkeeper",
       "SUNY Fredonia",
       "San Francisco Estuary Institute"
     ],
-    "citation_count": 437,
+    "citation_count": 440,
     "openalex_url": "https://openalex.org/W2410776720",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2016.05.077",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793595+00:00"
+    "updated_at": "2026-10-05T12:48:20.584786+00:00"
   },
   {
     "id": "https://openalex.org/W4323531449",
@@ -398,7 +381,7 @@
       "Lisa M. Erdle",
       "Scott Coffin",
       "Patricia Villarrubia-Gómez",
-      "Charles J. Moore",
+      "Charles James Moore",
       "Edward J. Carpenter",
       "Robert H. Day",
       "Martín Thiel",
@@ -406,23 +389,20 @@
     ],
     "affiliations": [
       "Alaska Biological Research (United States)",
-      "Center of Applied Ecology & Sustainability",
-      "Centro de Estudios Científicos",
       "Minderoo Foundation",
       "San Francisco State University",
-      "Southern California Institute for Research and Education",
+      "State of California",
       "Stockholm Resilience Centre",
       "Stockholm University",
       "Universidad Católica del Norte",
-      "University of California, Riverside",
-      "Walk Free Foundation"
+      "University of California, Riverside"
     ],
-    "citation_count": 424,
+    "citation_count": 438,
     "openalex_url": "https://openalex.org/W4323531449",
     "landing_page_url": "https://doi.org/10.1371/journal.pone.0281596",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793569+00:00"
+    "updated_at": "2026-10-05T12:48:20.584756+00:00"
   },
   {
     "id": "https://openalex.org/W3041758622",
@@ -439,7 +419,7 @@
       "Clare Steele",
       "Mary Woo",
       "Amy Lusher",
-      "Steve Carr",
+      "Steve A. Carr",
       "Paul A. Helm",
       "Carolynn Box",
       "Samuel L. Cherniak",
@@ -448,21 +428,18 @@
     ],
     "affiliations": [
       "California State University, Channel Islands",
-      "Los Angeles Unified School District",
       "Ministry of the Environment, Conservation and Parks",
       "Norwegian Institute for Water Research",
-      "Orange County School",
-      "Oregon Department of Fish and Wildlife",
       "Oregon State University",
       "San Francisco Estuary Institute",
       "University of Toronto"
     ],
-    "citation_count": 381,
+    "citation_count": 386,
     "openalex_url": "https://openalex.org/W3041758622",
     "landing_page_url": "https://doi.org/10.1177/0003702820945713",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793613+00:00"
+    "updated_at": "2026-10-05T12:48:20.584804+00:00"
   },
   {
     "id": "https://openalex.org/W1967071586",
@@ -482,12 +459,12 @@
       "University of Bergen",
       "University of Hawaii at Hilo"
     ],
-    "citation_count": 349,
+    "citation_count": 352,
     "openalex_url": "https://openalex.org/W1967071586",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2013.07.054",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793952+00:00"
+    "updated_at": "2026-10-05T12:48:20.585330+00:00"
   },
   {
     "id": "https://openalex.org/W1965858356",
@@ -499,46 +476,42 @@
     "journal_or_source": "Endangered Species Research",
     "authors": [
       "AC Vegter",
-      "M. Barletta",
+      "Mário Barletta",
       "Cathy A. Beck",
-      "J. C. Borrero",
+      "J Borrero",
       "Harry R. Burton",
       "Marnie L. Campbell",
-      "Mônica F. Costa",
+      "Monica Ferreira da Costa",
       "M Eriksen",
       "C. Eriksson",
       "Andrés Estrades",
       "KVK Gilardi",
       "Britta Denise Hardesty",
-      "JA Ivar do Sul",
+      "Juliana A. Ivar do Sul",
       "Jennifer L. Lavers",
       "Bojan Lazar",
       "Laurent Lebreton",
       "WJ Nichols",
       "CA Ribic",
       "Peter G. Ryan",
-      "QA Schuyler",
+      "Qamar A. Schuyler",
       "SDA Smith",
       "Hideshige Takada",
-      "Kathy A. Townsend",
-      "CCC Wabnitz",
+      "Kathy Ann Townsend",
+      "Colette C. C. Wabnitz",
       "Chris Wilcox",
       "LC Young",
       "Mark Hamann"
     ],
     "affiliations": [
-      "Australian Regenerative Medicine Institute",
       "CSIRO Oceans and Atmosphere",
       "California Academy of Sciences",
       "Central Queensland University",
-      "IP Australia",
       "James Cook University",
       "Karumbé",
       "Monash University",
       "Pacific Community",
-      "Pacific Environment",
       "Southern Cross University",
-      "Statistics New Zealand",
       "The University of Queensland",
       "Tokyo University of Agriculture and Technology",
       "United States Geological Survey",
@@ -546,15 +519,14 @@
       "University of California System",
       "University of Cape Town",
       "University of Primorska",
-      "University of Tasmania",
-      "eCoast (New Zealand)"
+      "University of Tasmania"
     ],
-    "citation_count": 331,
+    "citation_count": 333,
     "openalex_url": "https://openalex.org/W1965858356",
     "landing_page_url": "https://doi.org/10.3354/esr00623",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793941+00:00"
+    "updated_at": "2026-10-05T12:48:20.585318+00:00"
   },
   {
     "id": "https://openalex.org/W2097196948",
@@ -568,21 +540,22 @@
       "Chelsea M. Rochman",
       "Rebecca L. Lewison",
       "Marcus Eriksen",
-      "Harry Allen",
+      "Harry L. Allen",
       "Anna‐Marie Cook",
-      "Swee J. Teh"
+      "Swee Joo Teh"
     ],
     "affiliations": [
       "Environmental Protection Agency",
       "San Diego State University",
-      "University of California, Davis"
+      "University of California, Davis",
+      "University of California, Los Angeles"
     ],
-    "citation_count": 252,
+    "citation_count": 257,
     "openalex_url": "https://openalex.org/W2097196948",
     "landing_page_url": "https://doi.org/10.1016/j.scitotenv.2014.01.058",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793966+00:00"
+    "updated_at": "2026-10-05T12:48:20.585344+00:00"
   },
   {
     "id": "https://openalex.org/W1973411112",
@@ -593,7 +566,7 @@
     "type": "article",
     "journal_or_source": "Marine Biology",
     "authors": [
-      "Miriam Goldstein",
+      "Miriam C. Goldstein",
       "Henry S. Carson",
       "Marcus Eriksen"
     ],
@@ -603,12 +576,12 @@
       "University of Hawaii at Hilo",
       "Washington Department of Fish and Wildlife"
     ],
-    "citation_count": 214,
+    "citation_count": 217,
     "openalex_url": "https://openalex.org/W1973411112",
     "landing_page_url": "https://doi.org/10.1007/s00227-014-2432-8",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793977+00:00"
+    "updated_at": "2026-10-05T12:48:20.585354+00:00"
   },
   {
     "id": "https://openalex.org/W3112962566",
@@ -619,7 +592,7 @@
     "type": "article",
     "journal_or_source": "Journal of Hazardous Materials",
     "authors": [
-      "Ezra Miller",
+      "Ezra L. Miller",
       "Meg Sedlak",
       "Diana Lin",
       "Carolynn Box",
@@ -628,16 +601,17 @@
       "Rebecca Sutton"
     ],
     "affiliations": [
+      "Los Angeles Police Department",
       "San Francisco Estuary Institute",
       "University of California, Davis",
       "University of Toronto"
     ],
-    "citation_count": 194,
+    "citation_count": 196,
     "openalex_url": "https://openalex.org/W3112962566",
     "landing_page_url": "https://doi.org/10.1016/j.jhazmat.2020.124770",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793627+00:00"
+    "updated_at": "2026-10-05T12:48:20.584823+00:00"
   },
   {
     "id": "https://openalex.org/W2895466810",
@@ -650,15 +624,13 @@
     "authors": [
       "Ana Markić",
       "Clarisse Niemand",
-      "James H. Bridson",
+      "James  Hadley Bridson",
       "Nabila Mazouni-Gaertner",
       "Jean‐Claude Gaertner",
       "Marcus Eriksen",
-      "Melissa Bowen"
+      "Melissa  Marie Bowen"
     ],
     "affiliations": [
-      "Institut Louis Malardé",
-      "Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche",
       "Santé et Services des Ecosytèmes Polynésiens",
       "Scion",
       "University of Auckland",
@@ -670,7 +642,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2018.09.031",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793993+00:00"
+    "updated_at": "2026-10-05T12:48:20.585370+00:00"
   },
   {
     "id": "https://openalex.org/W4395069336",
@@ -682,13 +654,13 @@
     "journal_or_source": "Science Advances",
     "authors": [
       "Win Cowger",
-      "Kathryn Willis",
-      "S. E. T. Bullock",
+      "Kathryn A. Willis",
+      "Sybil Bullock",
       "Katie Conlon",
       "Jorge Emmanuel",
       "Lisa M. Erdle",
       "Marcus Eriksen",
-      "Trisia Farrelly",
+      "Trisia Angela Farrelly",
       "Britta Denise Hardesty",
       "Kristiina Kerge",
       "N. Li",
@@ -697,21 +669,19 @@
       "Neil Tangri",
       "Martín Thiel",
       "Patricia Villarrubia-Gómez",
-      "Tony R. ‎Walker",
+      "Tony Robert Walker",
       "Mengjiao Wang"
     ],
     "affiliations": [
-      "Alliance Pharmaceutical (United States)",
-      "CSIRO Oceans and Atmosphere",
-      "Center of Applied Ecology & Sustainability",
+      "CSIRO Environment",
       "Centre for Marine Socioecology",
+      "Commonwealth Scientific and Industrial Research Organisation",
       "Dalhousie University",
       "DePauw University",
       "Estonian University of Life Sciences",
+      "Global Alliance for Incinerator Alternatives",
       "Massey University",
-      "Moore College of Art and Design",
       "Portland State University",
-      "Santa Monica College",
       "Silliman University",
       "Smithsonian Environmental Research Center",
       "Stockholm University",
@@ -719,15 +689,14 @@
       "University of California, Berkeley",
       "University of California, Riverside",
       "University of Exeter",
-      "University of Tasmania",
-      "University of the Philippines System"
+      "University of Tasmania"
     ],
-    "citation_count": 153,
+    "citation_count": 154,
     "openalex_url": "https://openalex.org/W4395069336",
     "landing_page_url": "https://doi.org/10.1126/sciadv.adj8275",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793521+00:00"
+    "updated_at": "2026-10-05T12:48:20.584716+00:00"
   },
   {
     "id": "https://openalex.org/W2759784647",
@@ -746,7 +715,7 @@
       "Laurent Lebreton",
       "Heather Richards",
       "Barent Roth",
-      "Nicolas C. Ory",
+      "Nicolas Christian Ory",
       "Valeria Hidalgo‐Ruz",
       "Erika Meerhoff",
       "Carolynn Box",
@@ -754,21 +723,18 @@
       "Martín Thiel"
     ],
     "affiliations": [
-      "Centro de Estudios Científicos",
       "Memorial University of Newfoundland",
       "New School",
-      "Olympus (Japan)",
       "San Francisco State University",
-      "Sphere Institute",
       "The Ocean Cleanup",
       "Universidad Católica del Norte"
     ],
-    "citation_count": 142,
+    "citation_count": 143,
     "openalex_url": "https://openalex.org/W2759784647",
     "landing_page_url": "https://doi.org/10.1016/j.envpol.2017.09.058",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793666+00:00"
+    "updated_at": "2026-10-05T12:48:20.584858+00:00"
   },
   {
     "id": "https://openalex.org/W2922699723",
@@ -786,7 +752,7 @@
       "Marcus Eriksen",
       "Joan Fabrés",
       "Georgios Fylakis",
-      "Tony R. ‎Walker"
+      "Tony Robert Walker"
     ],
     "affiliations": [
       "Cape Eleuthera Institute",
@@ -794,12 +760,12 @@
       "Grid-Arendal",
       "Lund University"
     ],
-    "citation_count": 136,
+    "citation_count": 137,
     "openalex_url": "https://openalex.org/W2922699723",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2019.03.036",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793683+00:00"
+    "updated_at": "2026-10-05T12:48:20.584875+00:00"
   },
   {
     "id": "https://openalex.org/W4404137804",
@@ -813,22 +779,21 @@
       "Patricia Villarrubia-Gómez",
       "Bethanie Carney Almroth",
       "Marcus Eriksen",
-      "Morten Ryberg",
+      "Morten  Walbech Ryberg",
       "Sarah Cornell"
     ],
     "affiliations": [
-      "Nordisk Fond for Miljø og Udvikling",
       "Stockholm Resilience Centre",
       "Stockholm University",
       "Technical University of Denmark",
       "University of Gothenburg"
     ],
-    "citation_count": 133,
+    "citation_count": 135,
     "openalex_url": "https://openalex.org/W4404137804",
     "landing_page_url": "https://doi.org/10.1016/j.oneear.2024.10.017",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794006+00:00"
+    "updated_at": "2026-10-05T12:48:20.585385+00:00"
   },
   {
     "id": "https://openalex.org/W2428524794",
@@ -852,12 +817,12 @@
       "Illinois Indiana Sea Grant",
       "SUNY Fredonia"
     ],
-    "citation_count": 123,
+    "citation_count": 122,
     "openalex_url": "https://openalex.org/W2428524794",
     "landing_page_url": "https://doi.org/10.1016/j.jglr.2016.05.009",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793642+00:00"
+    "updated_at": "2026-10-05T12:48:20.584835+00:00"
   },
   {
     "id": "https://openalex.org/W2551655336",
@@ -876,22 +841,17 @@
       "Linda Amaral‐Zettler"
     ],
     "affiliations": [
-      "Falmouth Hospital",
       "Marine Biological Laboratory",
       "Ocean Conservancy",
-      "Oceaneering International (United States)",
-      "Redress",
       "Sea Education Association",
-      "Tokyo University of Agriculture and Technology",
-      "University of Santa Monica",
-      "Ökopol (Germany)"
+      "Tokyo University of Agriculture and Technology"
     ],
     "citation_count": 117,
     "openalex_url": "https://openalex.org/W2551655336",
     "landing_page_url": "https://doi.org/10.1039/c6ay02716d",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794023+00:00"
+    "updated_at": "2026-10-05T12:48:20.585398+00:00"
   },
   {
     "id": "https://openalex.org/W3161799540",
@@ -928,7 +888,7 @@
     "landing_page_url": "https://doi.org/10.1021/acsestwater.0c00292",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793703+00:00"
+    "updated_at": "2026-10-05T12:48:20.584898+00:00"
   },
   {
     "id": "https://openalex.org/W4388524409",
@@ -950,10 +910,10 @@
       "Anja Krieger",
       "Kristian Syberg",
       "Mine Banu Tekman",
-      "Richard C. Thompson",
+      "Richard Charles Thompson",
       "Patricia Villarrubia-Gómez",
       "Anish Kumar Warrier",
-      "Trisia Farrelly"
+      "Trisia Angela Farrelly"
     ],
     "affiliations": [
       "Aarhus University",
@@ -976,7 +936,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.oneear.2023.10.022",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794181+00:00"
+    "updated_at": "2026-10-05T12:48:20.585565+00:00"
   },
   {
     "id": "https://openalex.org/W3093916560",
@@ -994,15 +954,15 @@
     ],
     "affiliations": [
       "Central Veterinary Research Laboratory",
-      "Learning Through an Expanded Arts Program",
-      "Norwegian Institute for Water Research"
+      "Norwegian Institute for Water Research",
+      "University of California, Los Angeles"
     ],
     "citation_count": 54,
     "openalex_url": "https://openalex.org/W3093916560",
     "landing_page_url": "https://doi.org/10.1016/j.jaridenv.2020.104374",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794033+00:00"
+    "updated_at": "2026-10-05T12:48:20.585410+00:00"
   },
   {
     "id": "https://openalex.org/W3016054654",
@@ -1016,14 +976,11 @@
       "Marcus Eriksen",
       "Franco Borgogno",
       "Patricia Villarrubia-Gómez",
-      "Emily E. Anderson",
+      "Emily Anderson",
       "Carolynn Box",
       "Nicole Trenholm"
     ],
     "affiliations": [
-      "Los Angeles LGBT Center",
-      "Los Angeles Mission College",
-      "University Institute of European Studies",
       "University of Maryland, Baltimore County",
       "University of Toronto"
     ],
@@ -1032,7 +989,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.envint.2020.105704",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793718+00:00"
+    "updated_at": "2026-10-05T12:48:20.584910+00:00"
   },
   {
     "id": "https://openalex.org/W4386209796",
@@ -1048,12 +1005,12 @@
       "Hannah De Frond",
       "Giulia Leone",
       "Rachel Karasik",
-      "Zoie Diana",
+      "Zoie  Taylor Diana",
       "Hanna Dijkstra",
       "Justine Ammendolia",
       "Marcus Eriksen",
       "Ria Utz",
-      "Tony R. ‎Walker",
+      "Tony Robert Walker",
       "Kathinka Fürst"
     ],
     "affiliations": [
@@ -1062,7 +1019,6 @@
       "Flanders Marine Institute",
       "Ghent University",
       "Institut d'Etudes Politiques de Paris",
-      "Marine Conservation Institute",
       "Norwegian Institute for Water Research",
       "Ocean Conservancy",
       "Research Foundation - Flanders",
@@ -1071,12 +1027,12 @@
       "University of Toronto",
       "Vrije Universiteit Amsterdam"
     ],
-    "citation_count": 47,
+    "citation_count": 48,
     "openalex_url": "https://openalex.org/W4386209796",
     "landing_page_url": "https://doi.org/10.1021/acs.est.3c01885",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794160+00:00"
+    "updated_at": "2026-10-05T12:48:20.585543+00:00"
   },
   {
     "id": "https://openalex.org/W3092668871",
@@ -1102,9 +1058,7 @@
     ],
     "affiliations": [
       "Canterbury Museum",
-      "Centro de Estudios Científicos",
       "Forschungsinstitut für Biologischen Landbau",
-      "House Clinic",
       "Justus-Liebig-Universität Gießen",
       "Universidad Católica del Norte",
       "University of La Serena",
@@ -1115,7 +1069,7 @@
     "landing_page_url": "https://doi.org/10.1002/aqc.3453",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794139+00:00"
+    "updated_at": "2026-10-05T12:48:20.585523+00:00"
   },
   {
     "id": "http://www.jstor.org/stable/43294166",
@@ -1135,7 +1089,7 @@
     "landing_page_url": "http://www.jstor.org/stable/43294166",
     "is_open_access": null,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.971741+00:00"
+    "updated_at": "2026-10-05T12:48:20.709515+00:00"
   },
   {
     "id": "http://www.jstor.org/stable/43294161",
@@ -1154,7 +1108,7 @@
     "landing_page_url": "http://www.jstor.org/stable/43294161",
     "is_open_access": null,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.971764+00:00"
+    "updated_at": "2026-10-05T12:48:20.709538+00:00"
   },
   {
     "id": "https://openalex.org/W4388758906",
@@ -1165,7 +1119,7 @@
     "type": "article",
     "journal_or_source": "One Earth",
     "authors": [
-      "Charlotte A. Kukowski",
+      "Charlotte Anna Kukowski",
       "Wilhelm Hofmann",
       "Jon Roozenbeek",
       "Sander van der Linden",
@@ -1178,12 +1132,12 @@
       "University of Cambridge",
       "Vanderbilt University"
     ],
-    "citation_count": 27,
+    "citation_count": 28,
     "openalex_url": "https://openalex.org/W4388758906",
     "landing_page_url": "https://doi.org/10.1016/j.oneear.2023.10.017",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794046+00:00"
+    "updated_at": "2026-10-05T12:48:20.585426+00:00"
   },
   {
     "id": "https://openalex.org/W3195367486",
@@ -1196,7 +1150,7 @@
     "authors": [
       "Tae OHGAKI",
       "Hideshige Takada",
-      "Ryu Yoshida",
+      "Ryu YOSHIDA",
       "Kaoruko Mizukawa",
       "Bee Geok Yeo",
       "Mona ALIDOUST",
@@ -1212,14 +1166,14 @@
       "Laurent Colasse",
       "Juan Baztan",
       "Fabiano Prado Barretto",
-      "G.M. Izar",
+      "Gabriel Mendes Izar",
       "Denis ABESSA",
       "Mohamad Pauzi Zakaria",
       "Charita S. Kwan",
       "Mahua Saha",
       "Peter G. Ryan",
-      "S P Weerts",
-      "J. Ofosu-Anim",
+      "Steven Paul Weerts",
+      "John Ofosu-Anim",
       "Edward Benjamin Sabi",
       "Lailah Gifty Akita",
       "Heidi Tait",
@@ -1229,14 +1183,15 @@
     "affiliations": [
       "Australian Antarctic Division",
       "Centre National de la Recherche Scientifique",
+      "Council for Scientific and Industrial Research",
       "Cultures, Environnements, Arctique, Représentations, Climat",
+      "FitzPatrick Institute of African Ornithology",
       "Institut National des Sciences Appliquées Rouen Normandie",
       "National Institute of Oceanography",
+      "National University of Singapore",
       "Normandie Université",
       "Polymères, Biopolymères, Surfaces",
       "Raritan Valley Community College",
-      "Sphere Institute",
-      "St. Mary Medical Center",
       "The University of Texas at Austin",
       "The University of Tokyo",
       "Tokyo University of Agriculture and Technology",
@@ -1247,16 +1202,14 @@
       "University of Puerto Rico, Medical Sciences Campus",
       "University of the Philippines Diliman",
       "Université Paris-Saclay",
-      "Université de Rouen Normandie",
-      "Université de Versailles Saint-Quentin-en-Yvelines",
-      "Zentrum für Foren in der Grafischen Datenverarbeitung"
+      "Université de Versailles Saint-Quentin-en-Yvelines"
     ],
     "citation_count": 25,
     "openalex_url": "https://openalex.org/W3195367486",
     "landing_page_url": "https://doi.org/10.5985/emcr.20210002",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794120+00:00"
+    "updated_at": "2026-10-05T12:48:20.585505+00:00"
   },
   {
     "id": "https://openalex.org/W4383224299",
@@ -1272,7 +1225,7 @@
       "Janette Wallis",
       "Tierney M. Thys",
       "James Robert Brown",
-      "Charles Rolsky",
+      "Charles B. Rolsky",
       "Lisa M. Erdle"
     ],
     "affiliations": [
@@ -1285,7 +1238,7 @@
     "landing_page_url": "https://doi.org/10.3389/fbuil.2023.1206474",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793536+00:00"
+    "updated_at": "2026-10-05T12:48:20.584731+00:00"
   },
   {
     "id": "https://openalex.org/W4382602825",
@@ -1299,15 +1252,13 @@
       "Lisa M. Erdle",
       "Marcus Eriksen"
     ],
-    "affiliations": [
-      "AmeriCares"
-    ],
+    "affiliations": [],
     "citation_count": 20,
     "openalex_url": "https://openalex.org/W4382602825",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2023.115198",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793552+00:00"
+    "updated_at": "2026-10-05T12:48:20.584740+00:00"
   },
   {
     "id": "https://openalex.org/W3110837237",
@@ -1334,7 +1285,7 @@
     "landing_page_url": "https://doi.org/10.1021/acs.est.0c05746",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793728+00:00"
+    "updated_at": "2026-10-05T12:48:20.584921+00:00"
   },
   {
     "id": "https://openalex.org/W3124624966",
@@ -1361,7 +1312,7 @@
     "landing_page_url": "https://doi.org/10.1002/aqc.3479",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794059+00:00"
+    "updated_at": "2026-10-05T12:48:20.585440+00:00"
   },
   {
     "id": "https://openalex.org/W4200173985",
@@ -1372,7 +1323,7 @@
     "type": "conference-paper",
     "journal_or_source": "IOP Conference Series Earth and Environmental Science",
     "authors": [
-      "Engki A Kisnarti",
+      "Engki Andri Kisnarti",
       "Nining Sari Ningsih",
       "Mutiara Rachmat Putri",
       "Nani Hendriati",
@@ -1387,7 +1338,7 @@
     "landing_page_url": "https://doi.org/10.1088/1755-1315/925/1/012043",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793740+00:00"
+    "updated_at": "2026-10-05T12:48:20.584932+00:00"
   },
   {
     "id": "https://openalex.org/W4410602509",
@@ -1400,9 +1351,10 @@
     "authors": [
       "Victoria M Fulfer",
       "L. Nguyen-Ngoc",
-      "J. P. Walsh"
+      "John Patrick Walsh"
     ],
     "affiliations": [
+      "Institute of Oceanography",
       "University of Rhode Island",
       "Vietnam Academy of Science and Technology"
     ],
@@ -1411,7 +1363,7 @@
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118156",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794201+00:00"
+    "updated_at": "2026-10-05T12:48:20.585585+00:00"
   },
   {
     "id": "https://openalex.org/W4412720576",
@@ -1425,21 +1377,19 @@
       "Zara Zuniga-Lopez",
       "Lisa M. Erdle",
       "Victoria M Fulfer",
-      "Luis Flores",
+      "Luis A. Flores",
       "Gisselle Brady",
       "Jesse C. Vermaire"
     ],
     "affiliations": [
-      "Bay Institute",
-      "Carleton University",
-      "The Spine Institute"
+      "Carleton University"
     ],
     "citation_count": 6,
     "openalex_url": "https://openalex.org/W4412720576",
     "landing_page_url": "https://doi.org/10.1016/j.marpolbul.2025.118508",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793206+00:00"
+    "updated_at": "2026-10-05T12:48:20.584666+00:00"
   },
   {
     "id": "https://openalex.org/W4312263970",
@@ -1452,12 +1402,11 @@
     "authors": [
       "Patricia Villarrubia-G&oacute;mez",
       "Bethanie Carney Almroth",
-      "Morten Ryberg",
+      "Morten  Walbech Ryberg",
       "Marcus Eriksen",
       "Sarah Cornell"
     ],
     "affiliations": [
-      "Clinical Science Institute",
       "Stockholm Resilience Centre",
       "Stockholm University",
       "Technical University of Denmark",
@@ -1468,7 +1417,7 @@
     "landing_page_url": "https://doi.org/10.2139/ssrn.4254033",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794087+00:00"
+    "updated_at": "2026-10-05T12:48:20.585464+00:00"
   },
   {
     "id": "https://openalex.org/W4409393883",
@@ -1482,14 +1431,11 @@
       "Lisa M. Erdle",
       "Kathleen Stevack",
       "Camilla Parzanini",
-      "Michael T. Arts",
+      "Michael Theodore Arts",
       "Chelsea M. Rochman"
     ],
     "affiliations": [
-      "Metropolitan University",
-      "Ministry of Environment",
       "Ministry of the Environment, Conservation and Parks",
-      "The Spine Institute",
       "Toronto Metropolitan University",
       "University of Toronto"
     ],
@@ -1498,7 +1444,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf093",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793252+00:00"
+    "updated_at": "2026-10-05T12:48:20.584680+00:00"
   },
   {
     "id": "https://openalex.org/W3184087096",
@@ -1517,15 +1463,14 @@
       "Mia Nixon"
     ],
     "affiliations": [
-      "Norwegian Institute for Water Research",
-      "University of San Andrés"
+      "Norwegian Institute for Water Research"
     ],
     "citation_count": 2,
     "openalex_url": "https://openalex.org/W3184087096",
     "landing_page_url": "https://doi.org/10.5958/2277-8934.2021.00008.4",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794073+00:00"
+    "updated_at": "2026-10-05T12:48:20.585451+00:00"
   },
   {
     "id": "https://openalex.org/W4417102096",
@@ -1550,23 +1495,15 @@
     ],
     "affiliations": [
       "California State University, Channel Islands",
-      "Galena Biopharma (United States)",
       "Harvard University",
-      "Jiangsu Institute of Parasitic Diseases",
-      "Oregon Department of Fish and Wildlife",
-      "Oregon State University",
-      "Outcomes Research Consortium",
-      "Redress",
-      "Southern California Institute for Research and Education",
-      "University of Santa Monica",
-      "Whiteley Clinic"
+      "Oregon State University"
     ],
     "citation_count": 1,
     "openalex_url": "https://openalex.org/W4417102096",
     "landing_page_url": "https://doi.org/10.1021/acs.estlett.5c00790",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793160+00:00"
+    "updated_at": "2026-10-05T12:48:20.584608+00:00"
   },
   {
     "id": "https://openalex.org/W4415614905",
@@ -1585,20 +1522,16 @@
       "Lisa M. Erdle"
     ],
     "affiliations": [
-      "Alberta Conservation Association",
       "Desert Research Institute",
-      "Fisheries and Oceans Canada",
       "San Francisco Estuary Institute",
-      "The Spine Institute",
-      "University of British Columbia",
-      "University of Santa Monica"
+      "University of British Columbia"
     ],
     "citation_count": 1,
     "openalex_url": "https://openalex.org/W4415614905",
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf260",
     "is_open_access": false,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793180+00:00"
+    "updated_at": "2026-10-05T12:48:20.584639+00:00"
   },
   {
     "id": "https://openalex.org/W4415638434",
@@ -1624,7 +1557,7 @@
     "landing_page_url": "https://doi.org/10.1088/2515-7620/ae188d",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793192+00:00"
+    "updated_at": "2026-10-05T12:48:20.584654+00:00"
   },
   {
     "id": "https://openalex.org/W4417535166",
@@ -1640,16 +1573,15 @@
       "David Reide Corbett"
     ],
     "affiliations": [
-      "Coastal Carolina University",
-      "University of Rhode Island",
-      "University of Santa Monica"
+      "East Carolina University",
+      "University of Rhode Island"
     ],
     "citation_count": 1,
     "openalex_url": "https://openalex.org/W4417535166",
     "landing_page_url": "https://doi.org/10.1007/s11356-025-37295-2",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794191+00:00"
+    "updated_at": "2026-10-05T12:48:20.585575+00:00"
   },
   {
     "id": "https://openalex.org/W7125862476",
@@ -1660,15 +1592,13 @@
     "type": "article",
     "journal_or_source": "Environmental Toxicology and Chemistry",
     "authors": [
-      "Lisa M Erdle",
-      "Trudy Watson-Leung",
+      "Lisa M. Erdle",
+      "Trudy L. Watson-Leung",
       "Dorsa Nouri-Parto",
-      "Chelsea M Rochman"
+      "Chelsea M. Rochman"
     ],
     "affiliations": [
-      "Ministry of Environment",
       "Ministry of the Environment, Conservation and Parks",
-      "University of Santa Monica",
       "University of Toronto"
     ],
     "citation_count": 0,
@@ -1676,7 +1606,7 @@
     "landing_page_url": "https://doi.org/10.1093/etojnl/vgaf299",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.793117+00:00"
+    "updated_at": "2026-10-05T12:48:20.584564+00:00"
   },
   {
     "id": "https://openalex.org/W4413137941",
@@ -1699,11 +1629,8 @@
       "Win Cowger"
     ],
     "affiliations": [
-      "EnZinc (United States)",
       "Oklahoma State University",
-      "Rubicon Labs (United States)",
       "Southern California Coastal Water Research Project",
-      "The Spine Institute",
       "University of California, Riverside"
     ],
     "citation_count": 0,
@@ -1711,6 +1638,6 @@
     "landing_page_url": "https://doi.org/10.1016/j.wasman.2025.115063",
     "is_open_access": true,
     "manual_seed": true,
-    "updated_at": "2026-09-21T11:13:19.794233+00:00"
+    "updated_at": "2026-10-05T12:48:20.585601+00:00"
   }
 ]
