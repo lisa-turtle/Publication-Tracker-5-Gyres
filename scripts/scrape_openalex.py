@@ -53,7 +53,7 @@ def inverted_index_to_text(index: dict[str, list[int]] | None) -> str:
 def polite_params(config):
     params = {}
 
-    api_key = os.environ.get("OPENALEX_API_KEY")
+    api_key = os.environ.get("OPENALEX_API_KEY", "").strip()
     if not api_key:
         raise RuntimeError("OPENALEX_API_KEY is missing")
 
