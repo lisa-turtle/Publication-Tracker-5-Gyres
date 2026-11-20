@@ -16,6 +16,7 @@ from __future__ import annotations
 import json
 import re
 import time
+import os
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
@@ -49,10 +50,15 @@ def inverted_index_to_text(index: dict[str, list[int]] | None) -> str:
     return " ".join(word for _, word in sorted(pairs))
 
 
-def polite_params(config: dict[str, Any]) -> dict[str, str]:
-    mailto = config.get("mailto")
-    return {"mailto": mailto} if mailto else {}
+def polite_params(config):
+    params = {}
 
+    api_key = os.environ.get("OPENALEX_API_KEY")
+    if not api_key:
+        raise RuntimeError("OPENALEX_API_KEY is missing")
+
+    params["api_key"] = api_key
+    return params
 
 def request_json(url: str, params: dict[str, Any]) -> dict[str, Any]:
     for attempt in range(4):
