@@ -26,6 +26,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run publication scraper
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: |
           python scripts/scrape_openalex.py
 
